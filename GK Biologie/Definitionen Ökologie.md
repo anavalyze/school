@@ -10,4 +10,4 @@
 - Biosphäre: Gesamtheit aller Ökosysteme auf der Erde
 
 schmaler toleranzbereich: stenök
-breiter toleranzbereich: 
+breiter toleranzbereich: euryök

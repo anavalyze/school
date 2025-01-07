@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitionen Ökologie.md",
+                "file": "GK Biologie/Definitionen Ökologie.md",
                 "mode": "source",
                 "source": false
               },
@@ -253,14 +253,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd5b73ed032b6336",
+  "active": "dcee65a80a9c9807",
   "lastOpenFiles": [
+    "GK Biologie/Bedingungen in Lebensräumen.md",
+    "GK Biologie/Definitionen Ökologie.md",
     "README.md",
     "GK Biologie/Aktionspotential.md",
-    "Definitionen Ökologie.md",
     "Repo/README.md",
     "Repo",
     "Oberstufe",
@@ -296,7 +298,6 @@
     "GK Chemie/Videokonferenz/Screenshot 2024-12-09 133224.png",
     "GK Geographie/Vortrag/Freiburg_Stadtpanorama-mit-Muenster_(c)_DZT_Francesco-Carovillano_(2).jpg",
     "GK Biologie/Stoffwechsel und Informationsverarbeitung.md",
-    "GK Biologie/Stoffbewegung durch Membranen.md",
     "GK Biologie/Bilder/Pasted image 20241011142612.png",
     "GK Biologie/Bilder/Pasted image 20241104152408.png",
     "GK Biologie/Bilder/Pasted image 20241104152206.png",
