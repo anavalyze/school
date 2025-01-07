@@ -1,0 +1,10 @@
+- eigene klasse für inventar(?)
+- eigene klasse für kampf
+- vererbung für items umsetzen (erbende Klassen waffe, trank, rüstung)
+- vererbung für waffen umsetzen (schwert, dagger, bogen, etc.)
+- klasse npc
+- klasse quest
+- klasse objekt (für teile der welt, z.b. bäume, steine, etc.)
+- klasse map tile 
+- klasse map (besteht aus zufällig generierten tiles)
+- klasse kampf

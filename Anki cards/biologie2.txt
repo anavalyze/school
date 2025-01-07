@@ -1,0 +1,76 @@
+Was bedeutet Diffusion?	Die spontane Bewegung gelöster Substanzen entlang eines Konzentrationsgefälles.
+Welche Funktion haben Lysosomen in der Zelle?	Sie bauen zellulären Abfall ab und enthalten Verdauungsenzyme.
+Was ist die Funktion von Peroxisomen?	Sie bauen Wasserstoffperoxid ab und sind an der Entgiftung beteiligt.
+Wie unterscheiden sich Kanalproteine und Carrierproteine?	Kanalproteine bilden Poren für passiven Transport; Carrierproteine binden und transportieren Moleküle aktiv oder passiv.
+Was ist das Cytoskelett?	Ein Netzwerk aus Proteinfasern, das die Zellstruktur stabilisiert und an Transportprozessen beteiligt ist.
+Welche drei Haupttypen von Proteinfasern bilden das Cytoskelett?	Mikrotubuli, Mikrofilamente und Intermediärfilamente.
+Was ist die Aufgabe von Mikrotubuli?	Sie stabilisieren die Zellform und sind an der Zellteilung und dem intrazellulären Transport beteiligt.
+Wofür sind Mikrofilamente verantwortlich?	Sie unterstützen die Zellbewegung und sind an der Muskelkontraktion beteiligt.
+Was ist die Funktion von Intermediärfilamenten?	Sie verleihen der Zelle mechanische Stabilität und helfen, die Zellstruktur zu bewahren.
+Wie entsteht die ATP-Synthese in den Mitochondrien?	Durch den Prozess der oxidativen Phosphorylierung.
+Was ist der Unterschied zwischen exergonen und endergonen Reaktionen?	Exergone Reaktionen setzen Energie frei; endergone Reaktionen benötigen Energie.
+Welche Rolle spielen Enzyme im Stoffwechsel?	Sie senken die Aktivierungsenergie und beschleunigen chemische Reaktionen.
+Wie werden Enzyme reguliert?	Durch allosterische Hemmung, Aktivatoren und durch Substratkonzentrationen.
+Was ist die Aufgabe der Golgi-Apparats?	Er modifiziert, sortiert und verpackt Proteine und Lipide für den Transport.
+Was sind Vesikel?	Kleine membranumhüllte Bläschen, die Stoffe innerhalb der Zelle transportieren.
+Was versteht man unter „Signaltransduktion“?	Die Übertragung von Signalen durch die Zellmembran in das Zellinnere.
+Welche Rolle spielen Rezeptoren in der Zellmembran?	Sie erkennen und binden spezifische Signalmoleküle und leiten Signale weiter.
+Wie unterscheiden sich hydrophile und hydrophobe Moleküle in Bezug auf die Zellmembran?	Hydrophile Moleküle benötigen Transportproteine; hydrophobe können direkt durch die Membran diffundieren.
+Was ist die Funktion von G-Protein-gekoppelten Rezeptoren?	Sie aktivieren intrazelluläre Signalketten, wenn sie ein Signalmolekül binden.
+Welche Rolle spielt cAMP in der Signaltransduktion?	cAMP wirkt als sekundärer Botenstoff, der verschiedene Enzyme innerhalb der Zelle aktiviert.
+Wie wird die Calciumionen-Konzentration in Zellen reguliert?	Durch Kalziumkanäle und -pumpen sowie das Sarkoplasmatische Retikulum.
+Was ist das Endosymbionten-Theorie?	Die Hypothese, dass Mitochondrien und Chloroplasten von eigenständigen Prokaryoten abstammen.
+Was sind die Eigenschaften des Plasmamembrans?	Sie ist semipermeabel, flexibel und besteht hauptsächlich aus Phospholipiden und Proteinen.
+Was bedeutet hydrophob?	Wasserabweisend.
+Was bedeutet hydrophil?	Wasseranziehend.
+Was ist der Unterschied zwischen autotrophen und heterotrophen Organismen?	Autotrophe produzieren ihre eigene Nahrung durch Photosynthese oder Chemosynthese; heterotrophe müssen organische Nahrung aufnehmen.
+Was ist die Glykolyse?	Der erste Schritt der Zellatmung, bei dem Glukose zu Pyruvat abgebaut wird.
+Was ist der Zitronensäurezyklus?	Ein zentraler Teil der Zellatmung, bei dem Acetyl-CoA zu CO₂ abgebaut und Energie freigesetzt wird.
+Was geschieht in der Elektronentransportkette?	Elektronen werden entlang einer Kette von Proteinen transportiert, was zur ATP-Bildung führt.
+Was ist die Funktion der ATP-Synthase?	Sie erzeugt ATP, indem sie die Protonenenergie nutzt, die durch die Elektronentransportkette aufgebaut wird.
+Was ist der Unterschied zwischen der Zellatmung und der Gärung?	Zellatmung benötigt Sauerstoff und produziert viel ATP; Gärung ist anaerob und produziert weniger ATP.
+Welche Aufgaben haben NAD+ und FAD in der Zellatmung?	Sie sind Elektronentransporter, die Elektronen von der Glykolyse und dem Zitronensäurezyklus zur Elektronentransportkette transportieren.
+Was sind exokrine Drüsen?	Drüsen, die ihre Sekrete über Ausführungsgänge an eine Oberfläche abgeben.
+Was sind endokrine Drüsen?	Drüsen, die Hormone direkt ins Blut abgeben.
+Was sind Hormone?	Chemische Botenstoffe, die über das Blut transportiert werden und spezifische Zielzellen regulieren.
+Was versteht man unter „homöostatischer Regulation“?	Die Aufrechterhaltung eines stabilen inneren Milieus im Körper.
+Was ist die Rolle des Hypothalamus im endokrinen System?	Er steuert die Hypophyse und reguliert viele homöostatische Funktionen.
+Was ist die Funktion des Insulins?	Es senkt den Blutzuckerspiegel, indem es die Aufnahme von Glukose in die Zellen fördert.
+Wie wirkt das Hormon Glukagon?	Es erhöht den Blutzuckerspiegel, indem es die Freisetzung von Glukose aus der Leber anregt.
+Was ist die Wirkung von Adrenalin?	Es bereitet den Körper auf „Kampf-oder-Flucht“-Situationen vor, indem es den Herzschlag erhöht und Glukose freisetzt.
+Was ist das endokrine System?	Ein Netzwerk von Drüsen, das Hormone produziert und ins Blut abgibt.
+Was sind die Funktionen des Nervensystems?	Empfang und Verarbeitung von Reizen sowie Steuerung von Körperfunktionen und Bewegungen.
+Wie funktioniert die Reizweiterleitung in einem Neuron?	Durch elektrische Impulse entlang des Axons und chemische Übertragung an Synapsen.
+Was ist eine Synapse?	Der Spalt zwischen zwei Nervenzellen, an dem die Signalübertragung durch Neurotransmitter stattfindet.
+Was ist der Unterschied zwischen dem zentralen und peripheren Nervensystem?	Zentrales Nervensystem umfasst Gehirn und Rückenmark; peripheres Nervensystem alle übrigen Nervenbahnen.
+Welche Rolle spielen Dendriten?	Sie empfangen Signale von anderen Nervenzellen und leiten sie zum Zellkörper weiter.
+Was sind Reflexe?	Schnelle, unbewusste Reaktionen auf bestimmte Reize.
+Was sind Schwann-Zellen und welche Funktion haben sie?	Zellen, die die Myelinscheiden um Axone im peripheren Nervensystem bilden, was die Reizweiterleitung beschleunigt.
+Was ist der Unterschied zwischen afferenten und efferenten Neuronen?	Afferente Neuronen leiten Signale zum ZNS; efferente leiten sie vom ZNS zu Muskeln und Drüsen.
+Was ist die Funktion der Myelinscheide?	Sie isoliert das Axon und erhöht die Geschwindigkeit der Reizweiterleitung.
+Was versteht man unter dem Aktionspotenzial?	Die kurzzeitige Umkehrung der Membranpolarität, die den Nervenimpuls weiterleitet.
+Was ist eine synaptische Plastizität?	Die Fähigkeit von Synapsen, ihre Stärke in Reaktion auf Aktivität zu verändern, was für das Lernen wichtig ist.
+Wie wird die Intensität eines Reizes kodiert?	Durch die Frequenz der Aktionspotenziale in einem Neuron.
+Was ist der Unterschied zwischen chemischen und elektrischen Synapsen?	Chemische Synapsen nutzen Neurotransmitter; elektrische Synapsen leiten direkt elektrische Signale weiter.
+Welche Rolle spielen Neurotransmitter?	Chemische Botenstoffe, die Signale an Synapsen zwischen Nervenzellen übertragen.
+Was sind die Hauptaufgaben des vegetativen Nervensystems?	Steuerung von lebenswichtigen Funktionen wie Herzschlag, Atmung und Verdauung.
+Was sind die zwei Hauptzweige des vegetativen Nervensystems?	Sympathikus und Parasympathikus.
+Was ist der Sympathikus und seine Funktion?	Er aktiviert „Kampf-oder-Flucht“-Reaktionen, wie Herzfrequenz- und Blutdruckerhöhung.
+Was ist der Parasympathikus und seine Funktion?	Er fördert „Ruhe- und Verdauungs“-Reaktionen, wie Verlangsamung des Herzschlags.
+Welche Funktion hat das Rückenmark?	Leitet Signale zwischen Gehirn und Körper und steuert Reflexe.
+Was ist der Unterschied zwischen einer hormonellen und einer neuronalen Signalübertragung?	Hormonelle Übertragung ist langsamer und wirkt länger; neuronale ist schneller und kurzfristig.
+Was ist ein Zielorgan?	Ein Organ, das auf ein spezifisches Hormon oder einen Neurotransmitter reagiert.
+Was ist die Aufgabe der Leber im Energiestoffwechsel?	Die Leber speichert und gibt Glukose frei und reguliert den Blutzuckerspiegel.
+Was versteht man unter negativer Rückkopplung?	Ein Mechanismus, der eine Überproduktion von Substanzen wie Hormonen verhindert.
+Was ist das Bauprinzip der DNA?	Doppelhelix aus zwei komplementären Nukleotidsträngen.
+Wie ist ein Nukleotid aufgebaut?	Aus einer Phosphatgruppe, einem Zucker und einer der vier Basen (Adenin, Thymin, Guanin, Cytosin).
+Was ist die Funktion der mRNA?	Sie überträgt genetische Information vom Zellkern zu den Ribosomen für die Proteinbiosynthese.
+Was ist ein Gen?	Ein DNA-Abschnitt, der die Information für ein Protein oder eine RNA enthält.
+Was bedeutet „Transkription“?	Der Prozess, bei dem die DNA-Sequenz in mRNA umgeschrieben wird.
+Was versteht man unter „Translation“?	Der Prozess der Proteinbiosynthese an den Ribosomen, bei dem mRNA in eine Aminosäuresequenz übersetzt wird.
+Wie unterscheiden sich DNA und RNA?	DNA ist doppelsträngig und enthält Thymin; RNA ist einsträngig und enthält Uracil.
+Was ist der genetische Code?	Die Codierung der Aminosäuren durch Nukleotid-Tripletts in der mRNA.
+Was sind Mutationen?	Veränderungen in der DNA-Sequenz, die zu genetischen Abweichungen führen können.
+Was ist eine Punktmutation?	Eine einzelne Nukleotidveränderung in der DNA-Sequenz.
+Was ist die Funktion von tRNA?	Sie transportiert spezifische Aminosäuren zu den Ribosomen während der Translation.
+Wie funktioniert die DNA-Replikation?	Durch Verdopplung der DNA, sodass jede Tochterzelle eine Kopie erhält.

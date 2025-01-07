@@ -1,0 +1,308 @@
+{
+  "main": {
+    "id": "d997f0ef5e394079",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c1d78cefdce71d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f171c8175cc74ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Biologie/Aktionspotential.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aktionspotential"
+            }
+          },
+          {
+            "id": "37c617019dd1c805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Geschichte/Verfassung der Römischen Republik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verfassung der Römischen Republik"
+            }
+          },
+          {
+            "id": "3e996eb4edb3087b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bedingungen in Lebensräumen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bedingungen in Lebensräumen"
+            }
+          },
+          {
+            "id": "bd5b73ed032b6336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitionen Ökologie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definitionen Ökologie"
+            }
+          },
+          {
+            "id": "9a414bbe9a9463d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Geographie/Ländliche Räume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ländliche Räume"
+            }
+          },
+          {
+            "id": "6c0b2e3a9c658b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Geographie/Verstädterung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verstädterung"
+            }
+          },
+          {
+            "id": "500544f569fbbae8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7b707e5c7b14017",
+    "type": "split",
+    "children": [
+      {
+        "id": "0219be08bc5f741e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcee65a80a9c9807",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "73f3347ff26c50f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#11-12-2024",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b44a5dbab5a1706d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.50152587890625
+  },
+  "right": {
+    "id": "29674f0ff33b10d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f435529f2e9eb57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f04ff29e3d979c8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sklaverei Athen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sklaverei Athen"
+            }
+          },
+          {
+            "id": "d1b1f27851750dd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "to-study.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from to-study"
+            }
+          },
+          {
+            "id": "81290b199ffd1399",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f649e509aef8a42f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "to-study.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of to-study"
+            }
+          },
+          {
+            "id": "f54cc2a5f6342db1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "bd5b73ed032b6336",
+  "lastOpenFiles": [
+    "README.md",
+    "GK Biologie/Aktionspotential.md",
+    "Definitionen Ökologie.md",
+    "Repo/README.md",
+    "Repo",
+    "Oberstufe",
+    "Repo/Bedingungen in Lebensräumen.md",
+    "GK Geschichte/Verfassung der Römischen Republik.md",
+    "LK Informatik/Sortieralgorithmen/~$Messwerte Laufzeiten.ods",
+    "LK Informatik/Interfaces/Test.java",
+    "LK Informatik/Interfaces/Person.java",
+    "LK Informatik/Interfaces/Sortierbar.java",
+    "LK Informatik/Interfaces",
+    "LK Informatik/New folder",
+    "to-study.md",
+    "klausurvorbereitung chemie.md",
+    "GK Geographie/Verstädterung.md",
+    "GK Geographie/Ländliche Räume.md",
+    "LK Informatik/Sortieralgorithmen/117E7910",
+    "LK Informatik/LinkedList/NotIntegerException.java",
+    "Ficken.md",
+    "LK Englisch/Discussion.md",
+    "GK Biologie/Stofftransporte.md",
+    "GK Biologie/Diagramm Analyse.md",
+    "GK Geschichte/Reformen Solons.md",
+    "GK Politik/Koalitionsbruch.md",
+    "GK Geographie/Tempelhofer Feld.md",
+    "GK Geschichte/Auslieferung von Sklaven gegenüber ihren Herren.md",
+    "GK Geschichte/Struktur eines geschichtlichen Urteils.md",
+    "GK Geschichte/Quellenanalyse.md",
+    "GK Geschichte/Poleis.md",
+    "GK Geschichte/GK Geschichte.md",
+    "GK Geschichte/Antike Quellen.md",
+    "GK Geschichte/Die athenische Demokratie - Vorbild moderner Demokratien.md",
+    "GK Chemie/Videokonferenz/Screenshot 2024-12-09 134554.png",
+    "GK Chemie/Videokonferenz/Screenshot 2024-12-09 133224.png",
+    "GK Geographie/Vortrag/Freiburg_Stadtpanorama-mit-Muenster_(c)_DZT_Francesco-Carovillano_(2).jpg",
+    "GK Biologie/Stoffwechsel und Informationsverarbeitung.md",
+    "GK Biologie/Stoffbewegung durch Membranen.md",
+    "GK Biologie/Bilder/Pasted image 20241011142612.png",
+    "GK Biologie/Bilder/Pasted image 20241104152408.png",
+    "GK Biologie/Bilder/Pasted image 20241104152206.png",
+    "GK Biologie/Bilder/Pasted image 20241011142653.png",
+    "GK Biologie/Pasted image 20241011142653.png",
+    "GK Biologie/Pasted image 20241104152408.png",
+    "GK Biologie/Pasted image 20241104152206.png"
+  ]
+}

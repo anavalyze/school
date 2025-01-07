@@ -1,0 +1,16 @@
+[[LK Englisch]]
+#11-11-2024
+
+>Task: Discuss which of the two types of gap years - the American style or British style - you consider more effective.
+
+Taking a year off between high school and university - a gap year - to travel and gather as many experiences as possible, has become more popular than ever with students in the US and UK. There are however, significant differences between the American and the British style of a gap year. While the American gap year is a lot more structured and planned by the organizations providing it, this also offers a little freedom and independence. In contrast to this, British students taking a gap year have much less of a support system they can rely on, though their gap year is a lot less expensive. This poses the question: which gap year is more effective?
+
+One massive advantage the US gap year brings is structure: it includes certain activities and programs from the get-go, so students are guaranteed to make good use of their time. This means even students that are bad at managing their time will have the chance to do everything they wanted to, and do not have to organize their activities themselves, since the US gap year usually is pre-planned by the organizations providing it.
+
+This however comes with a cost; a rigid structure means little freedom. Since US-gap years are structured rigidly to fit in as much content into as little time as possible, there is little time for ones own spontaneous activities. This is a big advantage of the British gap year, with which students have the freedom to use a big part of their time whoever they desire. This additionally, is a great way to teach time-management and self-reliance, which especially for soon-to-be university students is important.
+
+But self-reliance and independence isn't always good. While British gap year students have a lot of freedom, this also means they often lack someone they can depend on. And being on your own in a foreign country can sometimes be quite stressful or even dangerous. Another consequence of this, is that students that take a British gap year often do not have someone that keeps them in check and pays attention on weather they are actually using their limited time effectively, and are not wasting it.
+
+Despite this, there is one massive advantage the British gap year brings: price. While an American gap year can cost multiple tens of thousands of dollars, the British gap year usually is a lot more affordable, to a point that most middle-class families can afford it. This makes the British gap year a lot more effective, since a large part of American cannot afford the luxury price of an American gap year - and a bad gap year still teaches you more than no gap year at all.
+
+In conclusion, while both types of gap years have their advantages and disadvantages, the British gap year is quite a bit more effective. While the US gap year provides a lot of pre planned activities, this comes at a literal cost. The British gap year in comparison is a lot less expensive, while it also gives students freedom and consequently teaches them self-reliance and time-management.

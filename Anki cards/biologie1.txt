@@ -1,0 +1,83 @@
+Was ist das Cytoplasma?	Der Zellinhalt zwischen Zellmembran und Zellkern.
+Wie wird der Zellkern auch genannt?	Nucleus.
+Welche Teile gehören zum Zellkern?	Kernkörperchen (Nucleolus), Kernhülle, Kernpoore.
+Was sind Kernpoore?	Öffnungen in der Kernhülle, die den Austausch von Stoffen ermöglichen.
+Was ist das raue endoplasmatische Retikulum (ER)?	Ein Netzwerk von Membranen mit Ribosomen, das Proteine synthetisiert.
+Was sind Ribosomen?	Organellen, die für die Proteinbiosynthese verantwortlich sind.
+Was ist die Hauptfunktion des Mitochondriums?	Es produziert Energie in Form von ATP.
+Was ist ein Dictyosom?	Ein Organell, das für die Modifikation und den Transport von Proteinen verantwortlich ist.
+Wofür ist die Zellmembran verantwortlich?	Sie umschließt die Zelle und reguliert den Stofftransport.
+Was ist die Funktion der Kernhülle?	Sie schützt den Zellkern.
+Wie wird das Kernkörperchen auch genannt?	Nucleolus.
+Was ist das glatte endoplasmatische Retikulum (ER)?	Ein Netzwerk von Membranen ohne Ribosomen, das Lipide synthetisiert.
+Was passiert bei der Osmose in einer Zelle?	Zellen nehmen Wasser auf oder geben es ab.
+Welche Gase können die Zellmembran ohne Diffusionsbarriere passieren?	Sauerstoff, Stickstoff und Kohlenstoffdioxid.
+Wie gelangen Wasser und kleine gelöste Moleküle in die Zelle?	Durch passiven oder aktiven Stofftransport.
+Wie nennt man den Prozess, bei dem große Moleküle wie Proteine in die Zelle gelangen?	Endocytose.
+Wie wird die Endocytose reguliert?	Durch die Anzahl und Art der Rezeptoren in der Zellmembran.
+Was sind die Schritte der Endocytose?	Bindung an Rezeptoren, Einsenkung der Membran, Vesikelbildung.
+Was geschieht bei der Exocytose?	Stoffe werden gegen ein Konzentrationsgefälle nach außen transportiert.
+Unter welchem Energieaufwand läuft die Endocytose ab?	Unter Energieverbrauch.
+Was geschieht mit Stoffen, die die Zelle verlassen sollen?	Sie passieren die Zellmembran.
+Was ist die Brown'sche Molekularbewegung?	Die ständige, zufällige Bewegung von Molekülen in Flüssigkeiten oder Gasen.
+Was ist eine Voraussetzung für die Diffusion durch eine Membran?	Die Membran muss für die diffundierenden Substanzen durchlässig sein.
+Für welche Moleküle sind Biomembranen permeabel?	Für kleine, unpolare Moleküle.
+Was bedeutet es, wenn eine Biomembran semipermeabel ist?	Sie ist halbdurchlässig und lässt nur bestimmte Moleküle passieren.
+Wie erfolgt die Diffusion von Wasser durch eine semipermeable Membran?	Von der Seite mit niedrigerer zur höheren Konzentration des gelösten Stoffes.
+Was sind Kanalproteine?	Proteine, die einen Kanal durch die Zellmembran bilden.
+Was geschieht mit tierischen Zellen in hypertonischer Flüssigkeit?	Sie schrumpfen.
+Was ist Osmose?	Die Diffusion von Wasser durch eine semipermeable Membran.
+Welche Funktion haben Carrierproteine?	Sie transportieren spezifische Moleküle durch die Membran.
+Was passiert bei der Osmose, wenn eine Zuckerlösung von reinem Wasser getrennt wird?	Das Wasser diffundiert in die Zuckerlösung.
+Was sind die Unterschiede zwischen Procyten und Eucyten?	Procyten haben keinen Zellkern, Eucyten besitzen einen.
+Warum ist die Homöostase wichtig für Tiere?	Sie stellt konstante osmotische Verhältnisse in den Körperflüssigkeiten sicher.
+Woraus bestehen Biomembranen in ihrer Grundstruktur?	Aus Phospholipiden.
+Welche Haupttypen von Transportproteinen gibt es?	ATP-abhängige Pumpen, Ionenkanäle, Transporter.
+Was beschreibt die Primärstruktur eines Proteins?	Die Sequenz der Aminosäuren.
+Wie sind Aminosäuren in Proteinen verbunden?	Durch Peptidbindungen.
+Was ist die Quartärstruktur eines Proteins?	Die Anordnung mehrerer Polypeptidketten und evtl. Cofaktoren.
+Welche Funktion haben Enzyme in der Zelle?	Sie wirken als Biokatalysatoren und beschleunigen chemische Reaktionen.
+Was beschreibt das Schlüssel-Schloss-Prinzip bei Enzymen?	Die spezifische Passform zwischen Enzym und Substrat.
+Was ist ein Enzym-Substrat-Komplex?	Die Verbindung zwischen einem Enzym und seinem Substrat während der Reaktion.
+Was passiert nach der Bildung des Enzym-Substrat-Komplexes?	Das Substrat wird chemisch verändert und freigesetzt.
+Was stabilisieren negative Regulatoren bei allosterischen Enzymen?	Sie stabilisieren die inaktive Form des Enzyms.
+Was stabilisieren positive Regulatoren bei allosterischen Enzymen?	Sie stabilisieren die aktive Form des Enzyms.
+Was bedeutet Allosterie?	Die Veränderung der Enzymstruktur durch Bindung an andere Moleküle.
+Was passiert bei einer Konformationsänderung?	Das Enzym verändert seine räumliche Struktur, was die Reaktion beeinflussen kann.
+Welche Gruppen enthalten Aminosäuren?	Carboxygruppe und Aminogruppe.
+Was sind α-Aminosäuren?	Aminosäuren, bei denen die Aminogruppe am benachbarten C-Atom der Carboxygruppe sitzt.
+Was passiert bei der Bildung einer Peptidbindung?	Zwei Aminosäuren kondensieren unter Wasserabspaltung.
+Wie nennt man die regelmäßigen Strukturen in einem Protein?	α-Helix und β-Faltblatt.
+Welche Bindung stabilisiert die Sekundärstruktur?	Wasserstoffbrückenbindungen.
+Was ist eine Disulfidbrücke?	Eine kovalente Bindung zwischen Schwefelatomen in Cysteinresten.
+Was bedeutet "Procyte"?	Eine Zelle ohne echten Zellkern.
+Wie unterscheidet sich die Umgebung von Pflanzen- und Tierzellen?	Pflanzenzellen sind oft in hypotonischer Umgebung, Tierzellen benötigen isotonische Bedingungen.
+Was bewirkt die Zellwand bei der Osmose in Pflanzenzellen?	Sie verhindert das Platzen der Zelle und ermöglicht Turgoraufbau.
+Was ist der Turgor und welche Funktion hat er?	Der Innendruck in Pflanzenzellen, der Form und Stabilität verleiht.
+Welche Strukturen ermöglichen die ATP-Synthese in Zellen?	Mitochondrien.
+Was transportieren Carrierproteine?	Spezifische Moleküle wie Glukose.
+Was sind die Unterschiede zwischen Exocytose und Endocytose?	Exocytose gibt Stoffe ab, Endocytose nimmt sie auf; beide benötigen Energie.
+Welche Moleküle können durch die Zellmembran transportiert werden?	Glucose, Aminosäuren, Ionen.
+Was ist das Zytoskelett und welche Funktion hat es?	Ein Netzwerk von Proteinen, das der Zelle Stabilität verleiht.
+Wie gelangen große Moleküle in die Zelle?	Durch Endocytose, oft rezeptorvermittelt.
+Was ist der Unterschied zwischen hypertonischen und hypotonischen Lösungen?	Hypertonisch: höhere Konzentration, hypotonisch: niedrigere Konzentration.
+Welche Rolle spielt die Temperatur bei der Diffusion?	Höhere Temperaturen erhöhen die Diffusionsgeschwindigkeit.
+Was passiert mit Zellen in einer hypertonischen Lösung?	Sie verlieren Wasser und schrumpfen.
+Was geschieht mit Pflanzenzellen bei Wasseraufnahme durch Osmose?	Sie entwickeln einen Innendruck, den Turgor.
+Was ist die Funktion der Chloroplasten?	Sie betreiben Photosynthese und erzeugen Glukose.
+Was ist das Sarkoplasmatische Retikulum?	Ein spezialisierter Typ des ER, der Calcium speichert.
+Wie funktioniert die rezeptorvermittelte Endocytose?	Rezeptoren binden Partikel, die Membran bildet ein Vesikel.
+Was beschreibt die Tertiärstruktur eines Proteins?	Die dreidimensionale Anordnung durch intermolekulare Bindungen.
+Was sind die Schritte der Exocytose?	Vesikelkontakt mit der Zellmembran, Öffnung und Verschmelzung.
+Was sind die Kategorien der proteinogenen Aminosäuren?	Unpolar, polar, geladen.
+Was sind die Hauptbestandteile der Biomembran?	Phospholipide mit hydrophoben Schwänzen und hydrophilen Köpfen.
+Was beschreibt die Sekundärstruktur eines Proteins?	Strukturelle Elemente wie α-Helices und β-Faltblätter.
+Welche Moleküle können die Membran ohne Hilfe passieren?	Kleine, unpolare Moleküle wie Sauerstoff und CO₂.
+Was ist der Hauptunterschied zwischen Prokaryoten und Eukaryoten?	Prokaryoten besitzen keinen Zellkern, Eukaryoten schon.
+Was beschreibt die Tertiärstruktur eines Proteins?	Die dreidimensionale Faltung durch chemische Wechselwirkungen.
+Was ist das Hauptmerkmal der Quartärstruktur?	Die Zusammenlagerung mehrerer Proteinuntereinheiten.
+Warum sind die meisten Zellmembranen semipermeabel?	Sie lassen bestimmte Moleküle durch und halten andere zurück.
+Was bezeichnet man als passiven Transport?	Den Stofftransport entlang eines Konzentrationsgefälles ohne Energieverbrauch.
+Was ist der Unterschied zwischen aktiven und passiven Transport?	Aktiver Transport benötigt Energie, passiver nicht.
+Wie unterscheiden sich Tier- und Pflanzenzellen in Bezug auf ihre Zellwand?	Pflanzenzellen besitzen eine Zellwand, Tierzellen nicht.
+Warum schrumpfen tierische Zellen in einer hypertonischen Lösung?	Sie verlieren Wasser durch Osmose.

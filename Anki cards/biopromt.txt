@@ -1,0 +1,719 @@
+
+Was ist das Cytoplasma?
+ Der Zellinhalt zwischen Zellmembran und Zellkern.
+
+Was ist der Zellkern auch bekannt als?
+ Nucleus.
+
+Welche Teile gehören zum Zellkern?
+ Kernkörperchen (Nucleolus)
+Kernhülle
+Kernpoore
+
+Was sind Kernpoore?
+ Öffnungen in der Kernhülle, die den Austausch von Substanzen ermöglichen.
+
+Was ist das raue endoplasmatische Retikulum (ER)?
+ Ein Netzwerk von Membranen mit Ribosomen, das Proteine synthetisiert.
+
+Was sind Ribosomen?
+ Organellen, die für die Proteinbiosynthese verantwortlich sind.
+
+Was ist die Funktion des Mitochondriums?
+ Es produziert Energie in Form von ATP.
+
+Was ist ein Dictyosom?
+ Ein Organell, das für die Modifikation und den Transport von Proteinen verantwortlich ist.
+
+Was ist die Zellmembran?
+ Die äußere Schicht der Zelle, die sie umschließt.
+
+Was ist die Funktion der Kernhülle?
+ Sie umschließt den Zellkern und schützt ihn.
+
+Was ist das Kernkörperchen auch bekannt als?
+ Nucleolus.
+
+Was ist das glatte endoplasmatische Retikulum (ER)?
+ Ein Netzwerk von Membranen ohne Ribosomen, das Lipide synthetisiert.
+
+Was geschieht durch Osmose in Zellen?
+ Zellen können Wasser aufnehmen oder abgeben
+
+Welche Gase können die Membran ohne Diffusionsbarriere passieren?
+ Sauerstoff, Stickstoff und Kohlenstoffdioxid
+
+Wie gelangen Wasser und kleine gelöste Moleküle in die Zelle?
+ Durch passiven oder aktiven Stofftransport
+
+Was ist der Prozess, durch den große Moleküle wie Proteine in die Zelle gelangen?
+ Endocytose
+
+Wie wird die Art und Menge der aufgenommenen Substanzen bei der Endocytose reguliert?
+ Durch die Art und Menge der Rezeptoren in der Membran
+
+Was sind die Schritte der Endocytose?
+ Partikel binden an Rezeptoren
+Membran senkt sich und bildet eine Mulde
+Vertiefter Bereich schnürt sich ab und ein Vesikel entsteht
+
+Was geschieht an der Zellmembran während der Endocytose?
+ Es entstehen Vesikel, die die Partikel umschließen
+
+Wie läuft die rezeptorvermittelte Endocytose ab?
+ Partikel binden an Rezeptoren, die Membran senkt sich und bildet eine Mulde
+
+Was passiert im dritten Schritt der Endocytose?
+ Der vertiefte Bereich schnürt sich ab und ein Vesikel entsteht
+
+Was ermöglicht der Prozess der Endocytose den Zellen?
+ Bestimmte Substanzen in großen Mengen gegen ein Konzentrationsgefälle aufzunehmen
+
+Was ermöglicht der Prozess der Exocytose den Zellen?
+ Substanzen gegen ein Konzentrationsgefälle nach außen abzugeben
+
+Unter welchem Energieverbrauch läuft die Endocytose ab?
+ Unter Energieverbrauch
+
+Was geschieht mit Stoffen, die in einer Zelle produziert werden und die Zelle verlassen müssen?
+ Sie müssen die Zellmembran passieren
+
+Wie gelangen große Moleküle wie Proteine aus der Zelle?
+ Durch Exocytose
+
+Was ist die Brown'sche Molekularbewegung?
+ Die ständige Bewegung von Molekülen in Flüssigkeiten oder Gasen
+
+Was geschieht im ersten Schritt der Exocytose?
+ Es bildet sich eine Kontaktstelle zwischen der Vesikelmembran und der Zellmembran
+
+Was passiert im zweiten Schritt der Exocytose?
+ Das Vesikel öffnet sich in Richtung des extrazellulären Raums
+
+Was ist Voraussetzung für die Diffusion durch eine Membran?
+ Die Membran muss permeabel für die Substanzen sein
+
+Für welche Moleküle sind Biomembranen permeabel?
+ Für kleine, unpolare Moleküle
+
+Was bedeutet es, wenn eine Biomembran semipermeabel ist?
+ Sie ist halbdurchlässig
+
+Was sind die Schritte der Exocytose?
+ Kontaktstelle zwischen Vesikelmembran und Zellmembran bildet sich
+Vesikel öffnet sich in Richtung des extrazellulären Raums
+Vesikelmembran verschmilzt mit der Zellmembran
+
+Unter welchem Energieverbrauch läuft die Exocytose ab?
+ Unter Energieverbrauch
+
+Was geschieht im dritten Schritt der Exocytose?
+ Die Vesikelmembran verschmilzt vollständig mit der Zellmembran
+
+Was bewirkt die Brown'sche Molekularbewegung?
+ Sie sorgt dafür, dass sich ein gelöster Stoff allmählich verteilt
+
+Wie fließt Wasser durch eine semipermeable Membran bei unterschiedlichen Konzentrationen?
+ Von der Seite mit niedrigerer zur höheren Konzentration des gelösten Stoffes
+
+Was ist Diffusion?
+ Die spontane Bewegung gelöster Substanzen entlang ihres Konzentrationsgefälles
+
+Wie können polare Moleküle oder Ionen die Membran passieren?
+ Durch Transportproteine
+
+Was bilden Kanalproteine in der Membran?
+ Ein Kanal, dessen Innenseite polar ist
+
+Was sind Kanalproteine?
+ Proteine, die einen Kanal durch die Membran bilden
+
+Was passiert mit tierischen Zellen in hypertonischer Flüssigkeit?
+ Sie schrumpfen
+
+Was ist Osmose?
+ Die Diffusion von Wasser durch eine semipermeable Membran
+
+Was transportieren Carrierproteine?
+ Spezifisch bestimmte Moleküle
+
+Was passiert, wenn eine semipermeable Membran eine Zuckerlösung von reinem Wasser trennt?
+ Wasser diffundiert in die Zuckerlösung
+
+Was sind die Unterschiede zwischen Procyten und Eucyten?
+ Procyten: Einfache Zellen ohne Zellkern
+Eucyten: Komplexe Zellen mit Zellkern
+
+Was ermöglicht die Diffusion von Wassermolekülen durch die Membran?
+ Die kleinen Größen der Wassermoleküle
+
+Wie werden Lösungen mit höherer und niedrigerer Konzentration genannt?
+ Hypertonisch und hypotonisch
+
+Was geschieht mit Pflanzenzellen, wenn Wasser osmotisch einströmt?
+ Sie bauen einen Innendruck auf, den Turgor
+
+Was ist der osmotische Druck?
+ Der Druck, der durch einen Konzentrationsunterschied aufgebaut wird
+
+Welche Moleküle können durch spezielle Transportmechanismen in die Zelle gelangen?
+ Nährstoffmoleküle wie Glucose, Aminosäuren und Fettbestandteile
+
+Was passiert mit tierischen Zellen in hypotonischer Flüssigkeit?
+ Sie dehnen sich durch Wasseraufnahme aus
+
+Warum ist die Homöostase für Tiere wichtig?
+ Für die Konstanz der osmotischen Verhältnisse in den Körperflüssigkeiten
+
+In welcher Umgebung befinden sich Pflanzenzellen meistens?
+ In hypotonischer Umgebung
+
+Woraus sind Membranen in ihrer Grundstruktur aufgebaut?
+ Aus Phospholipiden
+
+Was beschreibt Abbildung 2 über das Glucosetransport-Protein?
+ Wie Zucker vom Darm ins Blut transportiert wird
+
+Unter welchen Bedingungen sind die Transportproteine aktiv?
+ Unter spezifischen Bedingungen, die in Abbildung 1d – f dargestellt sind
+
+Was kann man aus den Permeabilitätswerten in Material 3 schließen?
+ Dass Biomembranen aus mehr als einer Lipiddoppelschicht bestehen
+
+Was grenzt die Zellmembran ab?
+ Eine Zelle von ihrer Umgebung
+
+Was ermöglichen die besonderen chemischen Eigenschaften von Phospholipiden?
+ Den Aufbau und die meisten Funktionen der Membran
+
+Was zeigen die Abbildungen 1a – c?
+ Die Haupttypen der Membrantransportproteine
+
+Was zeigt Abbildung 1d – f über die Transportproteine?
+ Die Bedingungen, unter denen die Proteine aktiv sind
+
+Was speichert das Sarkoplasmatische Retikulum (SR)?
+ Calciumionen
+
+Was ermöglicht der Transportprotein aus den Epithelzellen der Nierentubuli?
+ Die Rückgewinnung der Glucose aus dem sich bildenden Urin
+
+Was sind die Unterschiede zwischen der ATP-abhängigen Pumpe, dem Ionenkanal und dem Transporter?
+ Sie unterscheiden sich in ihrer Funktionsweise und Aktivierungsbedingungen
+
+Was sind die Hauptmechanismen des Stofftransports durch die Zellmembran?
+ Diffusion
+Osmose
+Aktiver Transport
+Passiver Transport
+
+Was sind die Unterschiede zwischen hypertonischen, hypotonischen und isotonischen Lösungen?
+ Hypertonisch: Höhere Konzentration an gelöstem Stoff
+Hypotonisch: Niedrigere Konzentration an gelöstem Stoff
+Isotonisch: Gleiche Konzentration an gelöstem Stoff
+
+Welche Rolle spielt der Turgor in Pflanzenzellen?
+ Gibt der Zelle Form und Standfestigkeit
+Verhindert das Platzen der Zelle
+Entsteht durch osmotischen Wasserfluss
+
+Was sind die Funktionen von Biomembranen?
+ Abgrenzung der Zelle von der Umgebung
+Regulierung des Stofftransports
+Kommunikation zwischen Zellen
+
+Was beeinflusst die Geschwindigkeit der Diffusion?
+ Temperatur, Größe der Partikel und Konzentrationsgefälle
+
+Wie können polare Moleküle oder Ionen die Membran passieren?
+ Durch den Transport über Proteine
+
+Was gibt den Pflanzenzellen ihre Form und Standfestigkeit?
+ Der Turgor
+
+Was zeigt Material 2 über die Durchlässigkeit der Doppelschicht?
+ Die unterschiedliche Durchlässigkeit für verschiedene Stoffe
+
+Was sind Cofaktoren in Bezug auf Proteine?
+ Kleine organische Moleküle oder Metallionen, die für die Funktion von Proteinen notwendig sind
+
+Was sind die Monomere von Proteinen?
+ Aminosäuren
+
+Wie viele proteinogene Aminosäuren gibt es in natürlich vorkommenden Proteinen?
+ Ca. 20
+
+Warum ist die Bildung der korrekten Tertiärstruktur komplex?
+ Sie erfordert die Hilfe von Enzymen während der Proteinbiosynthese
+
+Was ist die Quartärstruktur eines Proteins?
+ Der Zusammenschluss von mehreren Protein-Ketten und ggf. Cofaktoren
+
+Was ist die typische Endung der Namen von Enzymen?
+ ase
+
+
+
+Was sind Enzyme?
+ Biokatalysatoren, die die Geschwindigkeit chemischer Reaktionen erhöhen
+
+Was ist das Substrat in einer enzymatischen Reaktion?
+ Der Stoff, der von einem Enzym verändert wird
+
+Was beschreibt das Schlüssel-Schloss-Prinzip in Bezug auf Enzyme?
+ Die spezifische Form des Enzyms, die genau auf das Substratmolekül passt
+
+Was geschieht, wenn ein Substratmolekül auf ein Enzym trifft?
+ Es bildet sich ein Enzym-Substrat-Komplex
+
+Was passiert nach der Bildung des Enzym-Substrat-Komplexes?
+ Das Enzym ändert seine Konformation und verändert das Substratmolekül
+
+Was geschieht mit dem Produkt nach der enzymatischen Reaktion?
+ Es löst sich vom Enzym
+
+Was ist eine Gleichgewichtsreaktion in Bezug auf den Enzym-Substrat-Komplex?
+ Ein Teil der gebildeten Enzym-Substrat-Komplexe zerfällt wieder
+
+Was sind die Schritte der enzymatischen Reaktion?
+ Bildung des Enzym-Substrat-Komplexes
+Änderung der Enzymkonformation
+Chemische Veränderung des Substrats
+Bildung des Produkts
+Trennung von Enzym und Produkt
+
+Was sind die verschiedenen Strukturen von Proteinen und ihre Merkmale?
+ Primärstruktur: Sequenz der Aminosäuren
+Sekundärstruktur: α-Helices und β-Faltblätter
+Tertiärstruktur: Dreidimensionale Struktur durch Wechselwirkungen
+Quartärstruktur: Zusammenschluss mehrerer Polypeptidketten und Cofaktoren
+
+Welche Bindungstypen führen zur Ausbildung einer Tertiärstruktur?
+ Van-der-Waals-Wechselwirkungen
+Wasserstoffbrückenbindungen
+Elektrostatische Anziehungskräfte (ionische Bindungen)
+Disulfidbrücken
+
+Was sind die Eigenschaften von Enzymen?
+ Biokatalysatoren
+Substratspezifisch
+Wirkspezifisch
+Werden nicht verbraucht
+
+Was sind die Kategorien der 20 wichtigsten proteinogenen Aminosäuren?
+ Unpolar
+Polar
+Geladen
+
+Was ist die Rolle von Cofaktoren in der Quartärstruktur?
+ Notwendig für die Funktion von Proteinen
+Können kleine organische Moleküle oder Metallionen sein
+
+Was stabilisieren negative Regulatoren bei allosterischen Enzymen?
+ Negative Regulatoren stabilisieren die inaktive Form eines allosterischen Enzyms.
+
+Was stabilisieren positive Regulatoren bei allosterischen Enzymen?
+ Positive Regulatoren stabilisieren die aktive Form eines allosterischen Enzyms.
+
+Was bedeutet es, wenn ein Molekül seine dreidimensionale Anordnung abwandeln kann?
+ Es spricht von einer Konformationsänderung, ohne die chemische Zusammensetzung zu variieren.
+
+Was bezeichnet der Begriff Allosterie in Bezug auf Proteine?
+ Eine Eigenschaft vieler Proteine, die sich auf die räumliche Gesamtstruktur bezieht.
+
+Wie beeinflusst eine Konformationsänderung bei Enzymen das aktive Zentrum?
+ Das aktive Zentrum wird verändert, was die Fähigkeit des Enzyms zur Substratumsetzung beeinflusst.
+
+Welche Gruppen sind in den Molekülen der Aminosäuren vorhanden?
+ Mindestens eine Carboxygruppe und eine Aminogruppe
+
+Was sind die verschiedenen Formen der Hemmung bei Enzymen?
+ Kompetitive Hemmung
+Allosterische Hemmung
+
+Was sind α-Aminosäuren?
+ Aminosäuren, bei denen die Aminogruppe am benachbarten C-Atom der Carboxygruppe ist
+
+Wie sind Aminosäuren in Proteinen verbunden?
+ Durch Peptidbindungen
+
+Wie werden Proteine aufgrund ihrer Kettenlänge bezeichnet?
+ Polypeptide
+
+Was geschieht bei der Bildung einer Peptidbindung?
+ Zwei Aminosäure-Moleküle kondensieren unter Wasserabspaltung
+
+Was beschreibt die Primärstruktur eines Proteins?
+ Die Sequenz der Aminosäuren, die in der DNA codiert ist
+
+Was sind die Hauptbestandteile des Rückgrats einer Polypeptidkette?
+ Carbonylgruppen und Stickstoffatome
+
+Was bezeichnet man als random coil in einem Protein?
+ Bereiche ohne eindeutige Sekundärstruktur
+
+Was führt zur Bildung der Sekundärstruktur eines Proteins?
+ Wasserstoffbrückenbindungen zwischen N-H-Bindungen und Carbonyl-Doppelbindungen
+
+Wie werden α-Helices und β-Faltblätter in Abbildungen dargestellt?
+ α-Helices als Spirale, β-Faltblätter als flacher Pfeil
+
+Was ist eine Disulfidbrücke?
+ Kovalente Bindungen zwischen Schwefelatomen
+
+Was könnte eine Hypothese zum Mechanismus der Isoleucin-Produktion sein?
+ Negative Rückkopplung durch Isoleucin
+Hemmung der Enzyme bei ausreichender Produktion
+
+Welche Wechselwirkungen können zur Ausbildung einer Tertiärstruktur führen?
+ Van-der-Waals-Wechselwirkungen, Wasserstoffbrücken, elektrostatische Anziehungskräfte und Disulfidbrücken
+
+Was bedeutet der Begriff "Procyte"?
+ Eine Zelle ohne echten Zellkern
+
+Was sind die Hauptunterschiede zwischen Procyten und Eucyten?
+ Procyten: Einfache Zellstruktur, kein Zellkern
+Eucyten: Komplexe Zellstruktur, mit Zellkern
+
+Wie erfolgt die Umsetzung der Aminosäure Threonin zu Isoleucin im tierischen Organismus?
+ Über mehrere Zwischenprodukte, die von verschiedenen Enzymen katalysiert werden.
+
+Was passiert, wenn ausreichend Isoleucin produziert wird?
+ Die Reaktion zur Umsetzung von Threonin zu Isoleucin kommt zum Stillstand.
+
+Was sind die Hauptmerkmale von Eucyten?
+ Membranumschlossene Organellen
+DNA im Zellkern
+Größere Zellgröße
+
+Was bedeutet der Begriff "Eucyte"?
+ Eine Zelle mit echtem Zellkern
+
+
+Was sind die Hauptmerkmale von Procyten?
+ Keine membranumschlossenen Organellen
+DNA liegt frei im Zytoplasma
+Kleinere Zellgröße
+
+Wie unterscheiden sich die Zellstrukturen von Procyten und Eucyten?
+ Procyten: Einfach, kein Zellkern
+Eucyten: Komplex, mit Zellkern und Organellen
+
+Eukaryotische Zellen
+ Zellen mit wahren Kern und anderen membran-umschlossenen Organellen
+
+Kern
+ enthält DNA der Zelle
+
+Centriolen
+ beteiligt an der Bildung von Zilien, Flagellen und Zentriolen
+
+Mitochondrien
+ Ort der zellulären ATP-Synthese, produziert ATP
+
+Ribosomen
+ Ort der Protein-Synthese
+
+Prokaryotische Zellen
+ Zellen ohne wahren Kern oder andere membran-umschlossene Organellen
+
+Chloroplasten
+ Ort der Photosynthese, produziert Glukose
+
+Lysosomen
+ Ort der zellulären Verdauung und Abfallentsorgung
+
+Endoplasmatisches Retikulum (ER)
+ Synthesiert Proteine und Lipide
+
+Was sind Ribosomen?
+ Organellen, die für die Proteinbiosynthese verantwortlich sind.
+
+Was ist das Mitochondrium?
+ Das Kraftwerk der Zelle, das Energie in Form von ATP produziert.
+
+Was ist das glatte endoplasmatische Retikulum (ER)?
+ Ein Netzwerk von Membranen ohne Ribosomen, das Lipide synthetisiert.
+
+Was ist ein Dictyosom?
+ Ein Organell, das für die Modifikation und den Transport von Proteinen verantwortlich ist.
+
+Was ist das Cytoplasma?
+ Der Zellinhalt zwischen Zellmembran und Zellkern.
+
+Was ist das Kernkörperchen auch bekannt als?
+ Nucleolus.
+
+Was ist der Zellkern auch bekannt als?
+ Nucleus.
+
+Welche Teile gehören zum Zellkern?
+ Kernkörperchen (Nucleolus)
+Kernhülle
+Kernpoore
+
+Was ist die Funktion der Kernhülle?
+ Sie umschließt den Zellkern und schützt ihn.
+
+Was ist das raue endoplasmatische Retikulum (ER)?
+ Ein Netzwerk von Membranen mit Ribosomen, das Proteine synthetisiert.
+
+Was sind Kernpoore?
+ Öffnungen in der Kernhülle, die den Austausch von Stoffen ermöglichen.
+
+Was ist die Zellmembran?
+ Die äußere Schicht der Zelle, die sie umgibt.
+
+Was zeigt Material 2 über die Durchlässigkeit der Doppelschicht für verschiedene Teilchen?
+ Material 2 zeigt die relative Durchlässigkeit für verschiedene Moleküle.
+Unterschiedliche Stoffe haben unterschiedliche Permeabilitätskoeffizienten.
+Dies beeinflusst, wie leicht sie die Doppelschicht passieren können.
+
+Was zeigt die Forschung über die Struktur der Biomembran?
+ Die Biomembran ist nicht nur eine reine Lipiddoppelschicht.
+
+Was zeigt Material 3 über die Permeabilität verschiedener Membranen?
+ Material 3 zeigt die Permeabilität verschiedener Membranen.
+
+Aus welchen Hauptbestandteilen sind Biomembranen aufgebaut?
+ Biomembranen sind aus Phospholipiden aufgebaut.
+
+Welche besonderen chemischen Eigenschaften der Phospholipide sind für die Funktionen der Membran wichtig?
+ Die besonderen chemischen Eigenschaften der Phospholipide ermöglichen den Aufbau und die meisten Funktionen der Membran.
+
+Warum eignen sich Phospholipide, um zwei wässrige Bereiche voneinander zu trennen?
+ Phospholipide bilden eine Doppelschicht.
+Hydrophile Köpfe zeigen nach außen, hydrophobe Schwänze nach innen.
+Dies schafft eine Barriere zwischen den wässrigen Bereichen.
+
+Was kann man aus den Permeabilitätswerten in Material 3 schließen?
+ Die Permeabilitätswerte deuten darauf hin, dass Biomembranen aus mehr als einer Lipiddoppelschicht bestehen.
+Unterschiedliche Membranen haben unterschiedliche Permeabilitätseigenschaften.
+
+Was zeigt Material 1 über die Biomembran?
+ Material 1 zeigt einen Ausschnitt aus der Biomembran.
+
+Was beschreibt Material 2?
+ Material 2 beschreibt die Permeabilitätskoeffizienten für verschiedene Moleküle durch eine Lipiddoppelschicht.
+
+Hydrophile Köpfe
+ Hydrophile Köpfe sind die phosphorylierten Reste von Phospholipiden, die sich außen am Bilayer befinden und die hydrophile Oberfläche bilden.
+
+Choline-Hauptgruppe
+ Die Choline-Hauptgruppe ist ein wichtiger Bestandteil der Hydroxylkohlenwasserstoffe (OH-Gruppen) in Phospholipiden und spielt eine Rolle bei der Bildung von Phospholipidbilayer.
+
+Glycerol-Hauptgruppe
+ Die Glycerol-Hauptgruppe ist ein wichtiger Bestandteil der Zuckeralkohole in Phospholipiden und bindet die Choline-Hauptgruppe an den Hydroxylkohlenwasserstoffen.
+
+Phosphatgruppe
+ Die Phosphatgruppe ist ein wichtiger Bestandteil von Phospholipiden, der an die Choline-Hauptgruppe gebunden ist und die Hydroxylkohlenwasserstoffe (OH-Gruppen) enthält.
+
+Membrandomäne
+ Die Membrandomäne ist ein Bereich der Zellmembran, in dem Phospholipide hochkonzentriert sind und die membrandynamische Unzulänglichkeiten beseitigen.
+
+Hydrophobe Schwänze
+ Hydrophobe Schwänze sind die alkoholischen Reste von Phospholipiden, die sich innerhalb des Bilayers befinden und den hydrophoben Bereich bilden.
+
+Phospholipidbilayer
+ Das Phospholipidbilayer ist eine doppellagige Struktur, die aus zwei Schichten von Phospholipiden besteht. Die hydrophoben Schwänze bildeten den inneren und den äußeren Bereich, während die hydrophilen Köpfe den Außenbereich einnehmen.
+
+Was grenzt die Zellmembran von ihrer Umgebung ab?
+ Die Zellmembran grenzt eine Zelle von ihrer Umgebung ab.
+
+Unter welchen Bedingungen sind die Proteine aktiv?
+ ATP-abhängige Pumpe: bei Vorhandensein von ATP
+Ionenkanal: bei Vorhandensein eines Konzentrationsgradienten
+Transporter: abhängig von spezifischen Molekülen
+
+Was transportiert das Glucosetransport-Protein in den Epithelzellen des Darms?
+ Es transportiert Zucker vom Darm ins Blut.
+
+Welche Moleküle können durch die Zellmembran transportiert werden?
+ Nährstoffmoleküle wie Glucose, Aminosäuren und Fettbestandteile sowie Ionen.
+
+Was geschieht mit Stoffwechselprodukten in Bezug auf die Zellmembran?
+ Stoffwechselprodukte werden durch die Membran aus der Zelle hinausbefördert.
+
+Was sind die Haupttypen der Membrantransportproteine?
+ ATP-abhängige Pumpe
+Ionenkanal
+Transporter
+
+Was speichert das Sarkoplasmatische Retikulum (SR)?
+ Das Sarkoplasmatische Retikulum speichert Calciumionen.
+
+Was ermöglicht der Transportprotein aus den Epithelzellen der Nierentubuli?
+ Er ermöglicht die Rückgewinnung der Glucose aus dem sich bildenden Urin.
+
+Was zeigt die Spitze der Dreiecke in den Abbildungen an?
+ Die Spitze der Dreiecke zeigt niedrigere Konzentrationen bzw. niedrigere elektrische Potentiale an.
+
+Was sind die Unterschiede zwischen der ATP-abhängigen Pumpe, dem Ionenkanal und dem Transporter?
+ ATP-abhängige Pumpe: benötigt Energie, transportiert gegen den Konzentrationsgradienten
+Ionenkanal: passiver Transport, ermöglicht den Durchtritt von Ionen
+Transporter: vermittelt den Transport von Molekülen, oft spezifisch
+
+Wie ordnen Sie die Beispiele (Abb. 2 – 4) den beschriebenen Mechanismen aus Abb. 1 zu?
+ Abb. 2: Glucosetransport-Protein - Transporter
+Abb. 3: Ca2+-ATPase - ATP-abhängige Pumpe
+Abb. 4: Transportprotein der Nierentubuli - Transporter
+
+Wie nennt man die spontane Bewegung gelöster Substanzen entlang ihres Konzentrationsgefälles?
+ Diese Bewegung heißt Diffusion.
+
+Was ist eine Voraussetzung für die Diffusion durch eine Membran?
+ Die Membran muss für diese Substanzen permeabel sein.
+
+Was beobachtete Robert Brown im Mikroskop?
+ Er beobachtete ein Pollen-korn, das auf einer Wasseroberfläche hin und her zappelte.
+
+Was verursacht die Brown'sche Molekularbewegung?
+ Sie wird durch ständige Zusammenstöße mit Wassermolekülen verursacht.
+
+Was ist Osmose?
+ Osmose ist der Prozess, durch den Zellen Wasser aufnehmen oder abgeben.
+
+Was bedeutet es, wenn eine Biomembran semipermeabel ist?
+ Eine semipermeable Biomembran lässt Wassermoleküle passieren, nicht aber Ionen und Biomoleküle.
+
+Wie fließt Wasser durch eine semipermeable Membran bei unterschiedlichen Konzentrationen?
+ Wasser fließt von der Seite mit niedrigerer Konzentration des gelösten Stoffes zur Seite mit höherer Konzentration.
+
+Was passiert, wenn eine semipermeable Membran eine Zuckerlösung von reinem Wasser trennt?
+ Wasser diffundiert in die Zuckerlösung entlang seines Konzentrationsgefälles.
+
+Wie werden Lösungen mit höherer und niedrigerer Konzentration an gelöstem Material bezeichnet?
+ Die Lösung mit höherer Konzentration heißt hypertonisch, die mit niedrigerer hypotonisch.
+
+Was passiert bei der Osmose mit Wasser durch eine semipermeable Membran?
+ Wasser übertritt immer von der hypotonischen zur hypertonischen Lösung, um diese zu verdünnen.
+
+Was ist der osmotische Druck?
+ Der osmotische Druck wird durch einen Konzentrationsunterschied bestimmter Größe aufgebaut.
+
+Welche Rolle spielt Osmose für lebende Zellen?
+ Osmose spielt eine wichtige Rolle für alle lebenden Zellen, insbesondere für die Homöostase.
+
+Was bewirkt die Brown'sche Molekularbewegung in einer Flüssigkeit?
+ Sie sorgt dafür, dass sich ein gelöster Stoff allmählich über die gesamte Flüssigkeit verteilt.
+
+Warum benötigen tierische Zellen eine isotone Umgebung?
+ Tierische Zellen schrumpfen in hypertonischer Flüssigkeit und dehnen sich in hypotonischer Flüssigkeit aus.
+
+Was passiert mit tierischen Zellen in hypotonischer Flüssigkeit?
+ Sie dehnen sich durch Wasseraufnahme aus, bis sie platzen.
+
+Was ist Turgor und wie entsteht er in Pflanzenzellen?
+ Turgor ist der Innendruck in Pflanzenzellen, der durch osmotisch eingeströmtes Wasser entsteht.
+
+Wie unterscheidet sich die Umgebung von Pflanzenzellen im Vergleich zu tierischen Zellen?
+ Pflanzenzellen befinden sich meistens in hypotonischer Umgebung, während tierische Zellen eine isotone Umgebung benötigen.
+
+Was sind die Hauptunterschiede zwischen tierischen und pflanzlichen Zellen in Bezug auf Osmose?
+ Tierische Zellen benötigen eine isotone Umgebung.
+In hypertonischer Flüssigkeit schrumpfen sie, in hypotonischer dehnen sie sich aus.
+Pflanzenzellen befinden sich meist in hypotonischer Umgebung.
+Sie haben eine starre Zellwand, die Turgor aufbaut.
+
+Was bewirkt die starre Zellwand in Pflanzenzellen während der Osmose?
+ Die starre Zellwand verhindert, dass die Zelle platzt, und ermöglicht den Aufbau von Turgor.
+
+Wer vermutete die Bewegung der Moleküle und wann?
+ ROBERT BROWN vermutete die Bewegung der Moleküle im Jahr 1827.
+
+Welche Faktoren beeinflussen die Geschwindigkeit der Diffusion?
+ Die Geschwindigkeit hängt von Temperatur, Größe der Partikel und Konzentrationsgefälle ab.
+
+Was bedeutet es, wenn eine Membran permeabel ist?
+ Es bedeutet, dass die Membran durchlässig ist und geeignete Poren besitzt.
+
+Was passiert, wenn auf beiden Seiten einer Membran Substanzen mit unterschiedlicher Konzentration gelöst sind?
+ Diese Stoffe können durch die Membran hindurch diffundieren.
+
+Wie bewegen sich Moleküle in einer Flüssigkeit oder einem Gas?
+ Moleküle sind ständig in Bewegung auf einem ungerichteten Zickzackkurs.
+
+Was passiert mit Substanzen entlang eines Konzentrationsgefälles durch die Membran?
+ Substanzen diffundieren entlang eines Konzentrationsgefälles durch die Membran.
+
+Was sind die Schritte der Exocytose?
+ Kontaktstelle zwischen Vesikelmembran und Zellmembran; 2. Öffnung des Vesikels; 3. Verschmelzung der Membranen
+
+Was ist der Prozess, durch den Zellen Stoffe nach außen abgeben?
+ Exocytose
+
+Was sind die Schritte der Endocytose?
+ Bindung der Partikel an Rezeptoren; 2. Einschnürung der Membran; 3. Bildung eines Vesikels
+
+Was geschieht mit den Stoffen, die in Vesikeln während der Exocytose transportiert werden?
+ Sie verschmelzen mit der Zellmembran und werden nach außen abgegeben
+
+Welche Art von Molekülen können nicht durch Diffusion oder Transportproteine die Zellmembran passieren?
+ Große Moleküle wie Proteine
+
+Was sind die Schritte der Exocytose?
+ Kontaktstelle zwischen Vesikelmembran und Zellmembran
+Öffnung des Vesikels in den extrazellulären Raum
+Verschmelzung der Vesikelmembran mit der Zellmembran
+
+Was ist der Prozess, durch den Zellen große Moleküle aufnehmen?
+ Endocytose
+
+Wo werden die Stoffe in ihrer Transportform für die Exocytose vorbereitet?
+ Am GOLGI-Apparat
+
+Wie funktioniert rezeptorvermittelte Endocytose?
+ Rezeptorproteine binden Partikel
+Membran senkt sich und bildet eine Mulde
+Mulde schnürt sich ab und bildet ein Vesikel
+
+Wie erfolgt der Stofftransport bei der Exocytose im Vergleich zum aktiven Stofftransport?
+ Beide Prozesse laufen unter Energieverbrauch ab
+
+Was geschieht im ersten Schritt der rezeptorvermittelten Endocytose?
+ Die Partikel binden an Rezeptorproteine in der Membran
+
+Wie entstehen Vesikel während der Endocytose?
+ Durch Einschnürung der Zellmembran, die Partikel umschließt
+
+Wie können Zellen die Art und Menge der aufgenommenen Substanzen regulieren?
+ Durch die Art und Menge der Rezeptoren in der Membran
+
+Was sind die Schritte der Endocytose?
+ Bindung der Partikel an Rezeptoren
+Einschnürung der Membran
+Bildung eines Vesikels
+
+Wie erfolgt der Stofftransport bei der Endocytose im Vergleich zum aktiven Stofftransport?
+ Beide Prozesse laufen unter Energieverbrauch ab
+
+Welche physikalischen Parameter erhöhen die Geschwindigkeit der Diffusion?
+ Höhere Temperatur
+Kleinere diffundierende Partikel
+Größeres Konzentrationsgefälle
+
+Wie kann Wasser durch eine Lipiddoppelschicht diffundieren?
+ Wasser kann nur langsam durch die Lipiddoppelschicht diffundieren, weil Wassermoleküle klein sind.
+
+Wie wird der Stofftransport für polare Moleküle oder Ionen erleichtert?
+ Durch Proteine, die den Transport durch die Membran erleichtern.
+
+Was sind Kanalproteine?
+ Kanalproteine bilden einen Kanal durch die Membran, dessen Innenseite polar ist.
+
+Für welche Moleküle sind Biomembranen aufgrund ihres hydrophoben Innenbereichs permeabel?
+ Für kleine, unpolare Moleküle wie Benzol und andere organische Lösungsmittel.
+
+Warum ist der Hautkontakt mit organischen Lösungsmitteln gefährlich?
+ Weil Biomembranen für kleine, unpolare Moleküle permeabel sind.
+
+Welche Gase können die Membran ohne Diffusionsbarriere passieren?
+ Sauerstoff, Stickstoff oder Kohlenstoffdioxid.
+
+Was transportieren Carrierproteine?
+ Carrierproteine transportieren spezifisch bestimmte Moleküle.
+
+Was sind die Hauptunterschiede zwischen Exocytose und Endocytose?
+ Exocytose: Abgabe von Stoffen nach außen
+Endocytose: Aufnahme von Stoffen in die Zelle
+Beide Prozesse benötigen Energie
