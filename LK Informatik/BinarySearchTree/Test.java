@@ -11,6 +11,7 @@ public class Test {
         tree.insert(14);
         tree.insert(4);
         tree.insert(1);
+        tree.insert(3);
 
 
 
