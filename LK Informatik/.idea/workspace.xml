@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5763656c-155a-4a36-a1f6-d22126dec072" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BinarySearchTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/out/production/GUI/GUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/Tree$PrintArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/Tree$PrintArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTree/out/production/BinarySearchTree/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Was geht.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2rZ5gWpS0xiQSsF5DNLHI1W4uXE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5763656c-155a-4a36-a1f6-d22126dec072" name="Changes" comment="" />
+      <created>1736753867769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736753867769</updated>
+    </task>
+    <servers />
+  </component>
+</project>
