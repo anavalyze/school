@@ -9,7 +9,6 @@ public class Tree{
     public Tree(){
 
     }
-
     public Tree(int value){
         this.root = new Node(value);
     }
@@ -222,8 +221,6 @@ public class Tree{
     }
 
 
-
-
     public int[] toArray() {
         int[] arr = new int[countNodes()];
         int l = 0, r = arr.length - 1;
@@ -232,7 +229,7 @@ public class Tree{
             arr[l++] = getMin();
             deleteMin();
 
-            if (root != null) { // Avoid processing after last node
+            if (root != null) { //Avoid processing after last node
                 arr[r--] = getMax();
                 deleteMax();
             }
@@ -245,11 +242,37 @@ public class Tree{
 
     public void balance() {
         int[] arr = this.toArray();
-        if (arr.length == 0) return; //Preven balancing an empty tree
+        if (arr.length == 0) return; //Prevent balancing an empty tree
         this.root = Node.balanceFromArray(arr);
     }
 
 
+    public void deleteAll(int value){
+        root.deleteAllFromNode(value);
+        if(root.getValue() == value){
+            root = new Node(root.getRightNode().getValue(), null, root);
+            root.deleteRightNode();
+            balance();
+        }
+    }
+
+    public void deleteOne(int value){
+        Node pointer = new Node(0);
+        root.findDeepestFromNode(value, pointer);
+
+        if(pointer.getRightNode() == null && pointer.getLeftNode() == null){
+            if(root.getValue() == value){
+                root = new Node(root.getRightNode().getValue(), null, root);
+                root.deleteRightNode();
+                balance();
+            }
+        }else if(pointer.getLeftNode() != null){
+            pointer.getLeftNode().deleteLeftNode();
+        }else if(pointer.getRightNode() != null){
+            pointer.getRightNode().deleteRightNode();
+        }
+        pointer = null;
+    }
 
 
 }

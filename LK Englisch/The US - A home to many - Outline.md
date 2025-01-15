@@ -1,0 +1,9 @@
+[[LK Englisch]]
+#13-01-2025
+
+The article "Looking backward to the future - immigration and American society" written by Charles Hirschmann and published on the Website of the Institute for Human Sciences in 2007, explores the impact, chances and challenges of immigration on the US.
+
+Immigration has been a large factor in the growth of US-economy, and continued large-scale immigration provides opportunity for further economic growth, additionally immigration policy provides a chance for family reunification for more than one-fifth of the US population.
+
+However, large scale-scale immigration also provides certain challenges; although most fears concerning immigration are rooted in ignorance and prejudice and history has disproven the negative impact of immigrants, the growing negative sentiment towards immigrants is real and has reasons for developing.
+Immigration brings changes, and like most people, Americans are more comfortable with the familiar; this discomfort, and often a lack of exposure to immigrants, has led to a development of fear to different languages, cultures and religions, which in turn has led to a disapproval of immigrants. An additional challenge with immigration is, that many Americans oppose it due to fear of losing their jobs, since many industries rather seek out low-cost immigrant workers than the more expensive native-born workers. Though in some cases this is true, most often than not the media and politicians exaggerate the truth so they can feed into and exploit popular fears. This provides the largest challenge and impact of immigration - a population which is split due to their opinions and fear-mongering.

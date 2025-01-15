@@ -176,88 +176,39 @@ public class Node {
         node.rightNode = deleteMaxNode(node.rightNode);   // Recur right
         return node;
     }
-
-
-    public Node getSmallestParent(){
-        Node n = this;
-        if(this.leftNode != null && this.leftNode.leftNode != null) {
-           n = this.leftNode.getSmallestParent();
+    public void deleteAllFromNode(int value){
+        while (rightNode != null && rightNode.value == value) {
+            deleteRightNode();
         }
-       return n;
+        if (rightNode != null) {rightNode.deleteAllFromNode(value);}
+        while (leftNode != null && leftNode.value == value) {
+            deleteLeftNode();
+        }
+        if (leftNode != null) {leftNode.deleteAllFromNode(value);}
+
     }
-    public Node getLargestParent(){
-        Node n = this;
-        if(this.rightNode != null && this.rightNode.rightNode != null) {
-            n = this.rightNode.getLargestParent();
+    public Node findDeepestFromNode(int value, Node pointer){ //helper function for single deletion; returns a pointer, which points to the parent of the deepest Node with a value
+        if(leftNode != null){
+            if(leftNode.value == value){
+                pointer.rightNode = null;
+                pointer.leftNode = this;
+            }
+            leftNode.findDeepestFromNode(value, pointer);
         }
-        return n;
+        if(rightNode != null){
+            if(rightNode.value == value){
+                pointer.leftNode = null;
+                pointer.rightNode = this;
+            }
+            pointer = rightNode.findDeepestFromNode(value, pointer);
+        }
+        return pointer;
     }
 
-
-    /*public class ArrayNode extends Node{
-        public char dash;
-
-        public ArrayNode(int value, Node leftNode, Node rightNode){
-            super(value, leftNode, rightNode);
-        }
-        public ArrayNode(int value, char dash, Node leftNode, Node rightNode){
-            super(value, leftNode, rightNode);
-            this.dash = dash;
-        }
-
-        //printing
-        public ArrayNode[][] twoDArrayFromNode(ArrayNode[][] arr, int c, int r){
-            int r2 = r;
-            arr[r][c] = new ArrayNode(value, leftNode, rightNode);
-            c++;
-            if(leftNode != null){
-                r++;
-                if(leftNode.rightNode != null){r = r + leftNode.rightNode.countFromNode(0);}
-                arr = new ArrayNode(leftNode.value, leftNode.leftNode, leftNode.rightNode).twoDArrayFromNode(arr, r, c);
-            }
-            r = r2;
-            if(rightNode != null){
-                r--;
-                if(rightNode.leftNode != null){r = r - rightNode.leftNode.countFromNode(0);}
-                arr = new ArrayNode(rightNode.value, rightNode.leftNode, rightNode.rightNode).twoDArrayFromNode(arr, r, c);
-            }
-            return arr;
-        }
-        public ArrayNode[][] addDashes(ArrayNode[][] arr, int c, int r){
-            int r2 = r;
-            c++;
-            if(leftNode != null){
-                arr[r][c].dash = '┐';
-                r++;
-                if(leftNode.rightNode != null){
-                    r = r + leftNode.rightNode.countFromNode(0);
-                    for(int r3 = r2+1; r3 < r; r3++){
-                        arr[r3][c].dash = '|';
-                    }
-                }
-                arr = new ArrayNode(leftNode.value, leftNode.leftNode, leftNode.rightNode).addDashes(arr, c, r);
-            }
-            r = r2;
-            if(rightNode != null){
-                arr[r][c].dash = '┘';
-                r--;
-                if(rightNode.leftNode != null){
-                    r = r - rightNode.leftNode.countFromNode(0);
-                    for(int r3 = r2-1; r3 > r; r3--){
-                        arr[r3][c].dash = '|';
-                    }
-                }
-                arr = new ArrayNode(rightNode.value, rightNode.leftNode, rightNode.rightNode).addDashes(arr, c, r);
-            }
-            if(leftNode != null && rightNode != null){
-                arr[r2][c].dash = '+';
-            }
-            return arr;
-        }
-    }*/
+    
 
 
-    public static Node balanceFromArray(int[] arr) {
+    public static Node balanceFromArray(int[] arr){
         if (arr.length == 0) return null; //Stop if the Array is empty
         if (arr.length == 1) return new Node(arr[0]); //If the Array is a single Element return it as a Node
 
