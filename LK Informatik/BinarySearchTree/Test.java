@@ -1,33 +1,34 @@
 public class Test {
     public static void main(String[] args) {
-        Tree tree = new Tree(200);
-        tree.insert(20);
-        tree.insert(1000);
-        tree.insert(10);
-        tree.insert(40);
-        tree.insert(5);
-        tree.insert(15);
-        tree.insert(30);
+        Tree tree = new Tree(500);
         tree.insert(50);
-        tree.insert(6);
-        tree.insert(13);
-        tree.insert(40);
-        tree.insert(17);
-        tree.insert(25);
-        tree.insert(33);
-        tree.insert(42);
-        tree.insert(40);
-        tree.insert(55);
-        tree.insert(1500);
-        tree.insert(1050);
-        tree.insert(2000);
-        tree.insert(40);
+        tree.insert(70);
+        tree.insert(5);
+        tree.insert(12);
+        tree.insert(9000);
+        tree.insert(23);
+        tree.insert(678);
+        tree.insert(333);
+        tree.insert(50);
+        tree.insert(70);
+        tree.insert(5);
+        tree.insert(12);
+        tree.insert(9000);
+        tree.insert(23);
+        tree.insert(678);
+        tree.insert(333);
+        tree.insert(50);
+        tree.insert(70);
+        tree.insert(5);
+        tree.insert(12);
+        tree.insert(9000);
+        tree.insert(23);
+        tree.insert(678);
+        tree.insert(333);
 
         tree.balance();
         tree.print();
-        tree.deleteOne(40);
-        tree.print();
 
-        
+
     }
 }
