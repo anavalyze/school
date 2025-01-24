@@ -104,23 +104,9 @@
               "icon": "lucide-file",
               "title": "Thomas Hobbes"
             }
-          },
-          {
-            "id": "67bdf75a881e814d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sql mystery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sql mystery"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -286,11 +272,13 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "67bdf75a881e814d",
+  "active": "500544f569fbbae8",
   "lastOpenFiles": [
-    "sql mystery/Pasted image 20250124104609.png",
-    "sql mystery.md",
     "sql mystery/Pasted image 20250124104543.png",
+    "GK Geschichte/Thomas Hobbes.md",
+    "Pasted image 20250124102015.png",
+    "sql mystery.md",
+    "sql mystery/Pasted image 20250124104609.png",
     "sql mystery",
     "Pasted image 20250124104210.png",
     "Pasted image 20250124104128.png",
@@ -299,8 +287,6 @@
     "Pasted image 20250124103257.png",
     "Pasted image 20250124103105.png",
     "Pasted image 20250124103057.png",
-    "Pasted image 20250124102839.png",
-    "GK Geschichte/Thomas Hobbes.md",
     "GK Geschichte/Absolutismus.md",
     "LK Informatik/BinarySearchTree/out/production/BinarySearchTree/Test.class",
     "LK Informatik/BinarySearchTree/Test.java~",
