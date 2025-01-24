@@ -95,112 +95,32 @@
             "id": "500544f569fbbae8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "bca4ac9566ffb254",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "GK Geschichte/Mittelalterliche Städte.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mittelalterliche Städte"
-            }
-          },
-          {
-            "id": "e0b938e33231626e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Geschichte/Machiavelli.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Machiavelli"
-            }
-          },
-          {
-            "id": "962239b7ec771192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Biologie/Definitionen Ökologie.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Definitionen Ökologie"
-            }
-          },
-          {
-            "id": "e2039455d73f8775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Biologie/Bergmann'sche Regel.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bergmann'sche Regel"
-            }
-          },
-          {
-            "id": "381dce1a1e874512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Biologie/Allen'sche Regel.md",
+                "file": "GK Geschichte/Thomas Hobbes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allen'sche Regel"
+              "title": "Thomas Hobbes"
             }
           },
           {
-            "id": "cb81d6200903c827",
+            "id": "67bdf75a881e814d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radikalische Polymerisation.md",
+                "file": "sql mystery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radikalische Polymerisation"
-            }
-          },
-          {
-            "id": "3186713de2d5bba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLZ Englisch.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SLZ Englisch"
+              "title": "sql mystery"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -366,31 +286,43 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "3186713de2d5bba2",
+  "active": "67bdf75a881e814d",
   "lastOpenFiles": [
-    "LK Informatik/Pong/Pong.iml",
-    "LK Informatik/Pong/Pong/PongModel.java",
-    "LK Informatik/Pong/Pong/PongView.java",
-    "LK Informatik/Pong/Pong/PongController.java",
-    "LK Informatik/Pong/Pong/PongGame.java",
-    "LK Informatik/Pong/Pong",
-    "LK Informatik/Pong",
+    "sql mystery/Pasted image 20250124104609.png",
+    "sql mystery.md",
+    "sql mystery/Pasted image 20250124104543.png",
+    "sql mystery",
+    "Pasted image 20250124104210.png",
+    "Pasted image 20250124104128.png",
+    "Pasted image 20250124103550.png",
+    "Pasted image 20250124103413.png",
+    "Pasted image 20250124103257.png",
+    "Pasted image 20250124103105.png",
+    "Pasted image 20250124103057.png",
+    "Pasted image 20250124102839.png",
+    "GK Geschichte/Thomas Hobbes.md",
+    "GK Geschichte/Absolutismus.md",
     "LK Informatik/BinarySearchTree/out/production/BinarySearchTree/Test.class",
     "LK Informatik/BinarySearchTree/Test.java~",
-    "LK Informatik/BinarySearchTree/out/production/BinarySearchTree/Tree.class",
-    "LK Informatik/BinarySearchTree/out/production/BinarySearchTree/Tree$PrintArray.class",
-    "Radikalische Polymerisation.md",
-    "SLZ Englisch.md",
-    "Felsenkrabben.md",
-    "GK Biologie/Allen'sche Regel.md",
-    "GK Biologie/Bergmann'sche Regel.md",
-    "GK Biologie/Definitionen Ökologie.md",
-    "GK Geschichte/Ludwig XIX..md",
+    "GK Geschichte/Mittelalterliche Städte.md",
     "GK Geschichte/Machiavelli.md",
+    "GK Biologie/Definitionen Ökologie.md",
+    "GK Biologie/Bergmann'sche Regel.md",
+    "GK Biologie/Allen'sche Regel.md",
+    "GK Chemie/Radikalische Polymerisation.md",
+    "LK Englisch/SLZ/SLZ Englisch.md",
+    "LK Informatik/Pong/out/production/Pong/PongGame.class",
+    "LK Informatik/Pong/out/production/Pong/PongView.class",
+    "LK Informatik/Pong/out/production/Pong/PongModel.class",
+    "LK Informatik/Pong/out/production/Pong/PongController.class",
+    "LK Informatik/Pong/out/production/Pong",
+    "LK Informatik/Pong/out/production",
+    "LK Informatik/Pong/out",
+    "Felsenkrabben.md",
+    "GK Geschichte/Ludwig XIX..md",
     "GK Musik/Romantik.md",
     "LK Englisch/Greyhound Tragedy - Comment.md",
     "LK Englisch/The US - A home to many - Outline.md",
-    "GK Geschichte/Mittelalterliche Städte.md",
     "Polyaddition.md",
     "Elektrophile Addition.md",
     "LK Englisch/Greyhound Tragedy - Characterisation.md",
@@ -400,19 +332,6 @@
     "GK Musik/GK Musik.md",
     "BST.md",
     "GK Geographie/Raumplanung.md",
-    "GK Geographie/Römische Stadtgründung.md",
-    "GK Biologie/Stofftransporte.md",
-    "Hallo welt.md",
-    "GK Deutsch/Kommentar Web 2.0.md",
-    "GK Chemie/Videokonferenz/Screenshot 2024-12-09 134554.png",
-    "GK Chemie/Videokonferenz/Screenshot 2024-12-09 133224.png",
-    "GK Geographie/Vortrag/Freiburg_Stadtpanorama-mit-Muenster_(c)_DZT_Francesco-Carovillano_(2).jpg",
-    "GK Biologie/Bilder/Pasted image 20241011142612.png",
-    "GK Biologie/Bilder/Pasted image 20241104152408.png",
-    "GK Biologie/Bilder/Pasted image 20241104152206.png",
-    "GK Biologie/Bilder/Pasted image 20241011142653.png",
-    "GK Biologie/Pasted image 20241011142653.png",
-    "GK Biologie/Pasted image 20241104152408.png",
-    "GK Biologie/Pasted image 20241104152206.png"
+    "GK Geographie/Römische Stadtgründung.md"
   ]
 }
