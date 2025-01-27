@@ -14,11 +14,53 @@
               "type": "markdown",
               "state": {
                 "file": "GK Musik/Fanny Mendelssohn.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Fanny Mendelssohn"
+            }
+          },
+          {
+            "id": "959c53ca38cb5076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Musik/Nationalhymne der UdSSR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nationalhymne der UdSSR"
+            }
+          },
+          {
+            "id": "6fd683c31bf9f0b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Chemie/Wichtige Polymerisate.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wichtige Polymerisate"
+            }
+          },
+          {
+            "id": "3dc39b6b136d5e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Geschichte/Auslieferung von Sklaven gegenüber ihren Herren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auslieferung von Sklaven gegenüber ihren Herren"
             }
           },
           {
@@ -30,8 +72,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "48de466bb0f325ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uwehrieuwrh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "uwehrieuwrh"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,8 +254,18 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "596d4e5f96b72b97",
+  "active": "48de466bb0f325ed",
   "lastOpenFiles": [
+    "uwehrieuwrh.md",
+    "GK Geschichte/Auslieferung von Sklaven gegenüber ihren Herren.md",
+    "GK Geschichte/Die athenische Demokratie - Vorbild moderner Demokratien.md",
+    "Polykondensation.md",
+    "GK Chemie/GK Chemie.md",
+    "GK Chemie/Wichtige Polymerisate.md",
+    "Ink/Drawing/2025.1.27 - 13.45pm.drawing",
+    "Pasted image 20250127132909.png",
+    "GK Musik/Nationalhymne der UdSSR.md",
+    "GK Chemie/WhatsApp Image 2025-01-27 at 13.17.39_90502732.jpg",
     "GK Musik/Fanny Mendelssohn.md",
     "GK Biologie/Aktionspotential.md",
     "GK Geschichte/Verfassung der Römischen Republik.md",
@@ -216,7 +283,6 @@
     "LK Englisch/SLZ/Evaluation of the AI.docx",
     "GK Geschichte/pptEA87.tmp",
     "GK Geschichte/HandodHobbes.pptx",
-    "GK Geschichte/~$HandodHobbes.pptx",
     "sql mystery/Pasted image 20250124104543.png",
     "Pasted image 20250124102015.png",
     "sql mystery.md",
@@ -226,8 +292,6 @@
     "Pasted image 20250124103550.png",
     "Pasted image 20250124103413.png",
     "Pasted image 20250124103257.png",
-    "Pasted image 20250124103105.png",
-    "Pasted image 20250124103057.png",
     "GK Geschichte/Absolutismus.md",
     "GK Geschichte/Mittelalterliche Städte.md",
     "GK Geschichte/Machiavelli.md",
@@ -237,13 +301,6 @@
     "GK Chemie/Radikalische Polymerisation.md",
     "LK Englisch/SLZ/SLZ Englisch.md",
     "Felsenkrabben.md",
-    "GK Geschichte/Ludwig XIX..md",
-    "GK Musik/Romantik.md",
-    "LK Englisch/Greyhound Tragedy - Comment.md",
-    "LK Englisch/The US - A home to many - Outline.md",
-    "Polyaddition.md",
-    "Elektrophile Addition.md",
-    "LK Englisch/Greyhound Tragedy - Characterisation.md",
-    "GK Chemie/Drawing 2025-01-15 10.37.57.excalidraw.md"
+    "GK Geschichte/Ludwig XIX..md"
   ]
 }
