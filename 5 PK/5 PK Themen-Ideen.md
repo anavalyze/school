@@ -1,0 +1,36 @@
+
+Nebenfächer Bio / Chemie:
+- Gesundheitssystem
+	- ADHS im Jugendalter - Fahrlässige Medikation zu Gunsten der Pharmaindustrie?
+	- Wie beeinflusst die Zweiteilung in gesetzliche und private Krankenversicherung die soziale Gerechtigkeit im deutschen Gesundheitssystem?
+	- Kriminell durch Gesetz? – Führt die Strafverfolgung von Konsumenten zu mehr oder weniger gesellschaftlichen Schäden?
+- Drogenpolitik
+	- Portugals Drogenpolitik - Vorbild oder Katastrophe?
+	- Sucht im Jugendalter - versagt Deutschlands Drogenpolitik?
+- Transrechte
+	- Inwiefern trägt die politische Debatte um Transrechte zur gesellschaftlichen Polarisierung bei?
+	- Anerkennung oder Anfechtung? – Sind gesetzliche Fortschritte für Transmenschen weltweit stabil oder rückläufig?
+	- Identität oder Ideologie? – Wird die Debatte um Transrechte politisch instrumentalisiert?
+	- Transrechte vs. Frauenrechte? – Gibt es einen Konflikt zwischen feministischen Anliegen und den Rechten von Transmenschen?
+	- Olympia für alle? – Wie kann ein fairer Umgang mit trans Athletinnen im Leistungssport aussehen?
+- Nahost
+	- Wann ist gewalttätiger Widerstand legitim? - Am Beispiel des Nahost-Konflikts
+	- Zweistaatenlösung - legitim und effizient?
+- Kuba
+	- US-Sanktionen: Schutz oder Strafe? – Dienen die US-Sanktionen dem Schutz demokratischer Werte oder verschärfen sie die Krise in Kuba?
+	- Bildung und Freiheit? – Ist das kubanische Bildungssystem ein Beweis für sozialen Fortschritt oder für staatliche Kontrolle?
+- China
+	- Tian’anmen
+		- Tian’anmen 1989: Wendepunkt oder Tabu? – Wie hat das Tian’anmen-Massaker Chinas politische Entwicklung beeinflusst?
+	- Inwieweit stellt Chinas wirtschaftliches Engagement in Afrika eine Chance oder eine neue Form des Neokolonialismus dar?
+	- Welche historischen Parallelen gibt es zwischen Chinas wirtschaftlichem Einfluss in Afrika heute und den europäischen Kolonialmächten des 19. Jahrhunderts?
+	- Maoismus oder Marktwirtschaft? – Ist Chinas heutiges System eine Weiterentwicklung des Maoismus oder eine Abkehr davon?
+	- Supermacht durch Planung? – War Chinas Aufstieg zur Weltmacht eine Folge langfristiger staatlicher Planung oder günstiger globaler Umstände?
+	- Staatskapitalismus oder Sozialismus? – Ist Chinas Wirtschaftsmodell eher kapitalistisch oder sozialistisch?
+	- Zensur oder Stabilität? – Ist Chinas strenge Internetkontrolle ein Mittel zur Machterhaltung oder zur Wahrung gesellschaftlicher Stabilität?
+- E-Government und der gleichen
+	- Welche Chancen und Herausforderungen bietet E-Government für die politische Partizipation und Bürgerbeteiligung? (Beispiel Estland?)
+	- Wie können digitale Technologien genutzt werden, um politische Teilhabe und direkte Demokratie zu fördern?
+	- Estland als digitales Vorbild? – Warum sind große Nationen wie Deutschland trotz größerer Ressourcen nicht so weit in der digitalen Verwaltung?
+	- E-Staat der Zukunft? – Ist Estlands digitales Verwaltungssystem ein Modell für andere Länder?
+	- Transparenz oder Kontrolle? – Fördert die Digitalisierung des Staates mehr Bürgerbeteiligung oder Überwachung?

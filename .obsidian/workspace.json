@@ -67,28 +67,86 @@
             "id": "b29e84046716fbc4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "48de466bb0f325ed",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "uwehrieuwrh.md",
+                "file": "GK Geographie/Stadt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uwehrieuwrh"
+              "title": "Stadt"
+            }
+          },
+          {
+            "id": "21ec9eed2df461a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Politik/Grundgesetz.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grundgesetz"
+            }
+          },
+          {
+            "id": "bb495fc4985fd252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Biologie/Bergmann'sche Regel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bergmann'sche Regel"
+            }
+          },
+          {
+            "id": "3e2cd6ff7e4d07fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 PK/5 PK Themen-Ideen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 PK Themen-Ideen"
+            }
+          },
+          {
+            "id": "42904726b7e9e137",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LK Englisch/Trumpadministration.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Trumpadministration"
+            }
+          },
+          {
+            "id": "f2556664c804e0fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LK Englisch/Trump adminestration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trump adminestration"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -107,7 +165,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -119,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#11-12-2024",
+                "query": "tag:#16-01-2025  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,53 +313,52 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "48de466bb0f325ed",
+  "active": "42904726b7e9e137",
   "lastOpenFiles": [
-    "uwehrieuwrh.md",
-    "GK Geschichte/Auslieferung von Sklaven gegenüber ihren Herren.md",
-    "GK Geschichte/Die athenische Demokratie - Vorbild moderner Demokratien.md",
-    "Polykondensation.md",
-    "GK Chemie/GK Chemie.md",
-    "GK Chemie/Wichtige Polymerisate.md",
-    "Ink/Drawing/2025.1.27 - 13.45pm.drawing",
-    "Pasted image 20250127132909.png",
-    "GK Musik/Nationalhymne der UdSSR.md",
-    "GK Chemie/WhatsApp Image 2025-01-27 at 13.17.39_90502732.jpg",
-    "GK Musik/Fanny Mendelssohn.md",
-    "GK Biologie/Aktionspotential.md",
-    "GK Geschichte/Verfassung der Römischen Republik.md",
-    "GK Geographie/Raumplanung.md",
-    "GK Geographie/Ländliche Räume.md",
-    "GK Geographie/Verstädterung.md",
-    "GK Geschichte/Thomas Hobbes.md",
-    "LK Informatik/Datenbanksysteme.md",
-    "GK Geschichte/ppt25D3.tmp",
-    "LK Englisch/SLZ/Evaluation of the AI.pdf",
-    "LK Englisch/SLZ/mso1E54.tmp",
-    "LK Englisch/SLZ/~$aluation of the AI.docx",
-    "LK Englisch/SLZ/~WRL0096.tmp",
-    "LK Englisch/SLZ/~WRD0089.tmp",
-    "LK Englisch/SLZ/Evaluation of the AI.docx",
-    "GK Geschichte/pptEA87.tmp",
-    "GK Geschichte/HandodHobbes.pptx",
-    "sql mystery/Pasted image 20250124104543.png",
-    "Pasted image 20250124102015.png",
-    "sql mystery.md",
-    "sql mystery/Pasted image 20250124104609.png",
-    "Pasted image 20250124104210.png",
-    "Pasted image 20250124104128.png",
-    "Pasted image 20250124103550.png",
-    "Pasted image 20250124103413.png",
-    "Pasted image 20250124103257.png",
-    "GK Geschichte/Absolutismus.md",
-    "GK Geschichte/Mittelalterliche Städte.md",
+    "LK Englisch/Trump adminestration.md",
+    "Untitled.md",
+    "LK Englisch/Trumpadministration.pdf",
+    "GK Geschichte/Ludwig XIX..md",
     "GK Geschichte/Machiavelli.md",
-    "GK Biologie/Definitionen Ökologie.md",
+    "GK Geschichte/Mittelalterliche Städte.md",
+    "GK Geschichte/Poleis.md",
+    "GK Geschichte/Quellenanalyse.md",
+    "GK Geschichte/Reformen Solons.md",
+    "GK Geschichte/Struktur eines geschichtlichen Urteils.md",
+    "GK Geschichte/Thomas Hobbes.md",
+    "GK Geschichte/Absolutismus.md",
+    "5 PK/5 PK Themen-Ideen.md",
+    "LK Informatik/BinarySearchTree/Tree.java~",
+    "GK Politik/~$FreieDemokraten.pptx",
+    "GK Geographie/6C4B2651.tmp",
+    "GK Geographie/ppt1083.tmp",
+    "LK Englisch/mso4D5B.tmp",
+    "LK Englisch/mso4B95.tmp",
+    "LK Englisch/Trumpadministration.pptx",
+    "LK Englisch/~$Trumpadministration.pptx",
+    "GK Geographie/~$alpen.pptx",
     "GK Biologie/Bergmann'sche Regel.md",
     "GK Biologie/Allen'sche Regel.md",
-    "GK Chemie/Radikalische Polymerisation.md",
-    "LK Englisch/SLZ/SLZ Englisch.md",
-    "Felsenkrabben.md",
-    "GK Geschichte/Ludwig XIX..md"
+    "LK Informatik/Datenbanksysteme.md",
+    "GK Geschichte/WhatsApp Image 2025-01-25 at 19.37.02_c87fb14a.jpg",
+    "GK Geographie/Stadt.md",
+    "GK Politik/Grundgesetz.md",
+    "GK Geographie/Soziale Verteilung in der Städteentwicklung.md",
+    "GK Geographie/Römische Stadtgründung.md",
+    "GK Geographie/Raumplanung.md",
+    "GK Geographie/Ländliche Räume.md",
+    "GK Geographie/GK Geographie.md",
+    "GK Geographie/BuchSeite11.jpg",
+    "GK Geographie/BuchSeite10.jpg",
+    "GK Geographie/Berliner Gebäude.md",
+    "Pasted image 20250127132909.png",
+    "uwehrieuwrh.md",
+    "GK Geschichte/Auslieferung von Sklaven gegenüber ihren Herren.md",
+    "GK Chemie/WhatsApp Image 2025-01-27 at 13.17.39_90502732.jpg",
+    "sql mystery/Pasted image 20250124104543.png",
+    "Pasted image 20250124102015.png",
+    "sql mystery/Pasted image 20250124104609.png",
+    "Pasted image 20250124104210.png",
+    "Pasted image 20250124104128.png"
   ]
 }

@@ -42,9 +42,7 @@ public class Tree{
         }
     }
 
-    public Node getRoot(){
-        return this.root;
-    }
+
 
     public int countNodes(){
         if(root == null){
@@ -60,7 +58,7 @@ public class Tree{
     }
 
     public boolean search(int i){
-        return getRoot().searchFromNode(i);
+        return root.searchFromNode(i);
     }
 
     public int getMin(){

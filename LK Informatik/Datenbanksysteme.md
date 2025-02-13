@@ -44,13 +44,33 @@ Serviert x Mag
 | Dos    | Kaffee  | Ede  | Kaffee  |
 | Dos    | Kaffe   | Karl | Kaffee  |
 
+b)
+
 Serviert ⋈ Mag
+
+| Getränk | Bistro | Gast |
+| ------- | ------ | ---- |
+| Wasser  | Uno    | Hans |
+| Wasser  | Uno    | Ede  |
+| Kaffee  | Uno    | Karl |
+| Kaffee  | Dos    | Ede  |
+| Kaffe   | Dos    | Karl |
+c)
 
 
 | Bistro | Getränk | Gast | Getränk |
 | ------ | ------- | ---- | ------- |
-| Uno    | Wasser  | Hans | Wasser  |
-| Uno    | Wasser  | Ede  | Wasser  |
 | Uno    | Kaffee  | Karl | Kaffee  |
-| Dos    | Kaffee  | Ede  | Kaffee  |
-| Dos    | Kaffe   | Karl | Kaffee  |
+| Dos    | Kaffee  | Karl | Kaffee  |
+
+d)
+
+
+| Gast | Bistro | Bistro | Getränk | Gast | Getränk |
+| ---- | ------ | ------ | ------- | ---- | ------- |
+| Hans | Uno    | Uno    | Wasser  | Hans | Wasser  |
+| Ede  | Uno    | Uno    | Wasser  | Ede  | Wasser  |
+| Ede  | Uno    | Uno    | Kaffee  | Ede  | Kaffee  |
+| Ede  | Dos    | Dos    | Kaffee  | Ede  | Kaffee  |
+| Karl | Dos    | Dos    | Kaffee  | Karl | Kaffee  |
+
