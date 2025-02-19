@@ -8,145 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "596d4e5f96b72b97",
+            "id": "fcbdcb40b1b362a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GK Musik/Fanny Mendelssohn.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fanny Mendelssohn"
-            }
-          },
-          {
-            "id": "959c53ca38cb5076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Musik/Nationalhymne der UdSSR.md",
+                "file": "GK Chemie/Fachbegriffe der Thermodynamik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nationalhymne der UdSSR"
+              "title": "Fachbegriffe der Thermodynamik"
             }
           },
           {
-            "id": "6fd683c31bf9f0b0",
+            "id": "8b8ec52cbef3e81d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Chemie/Wichtige Polymerisate.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wichtige Polymerisate"
-            }
-          },
-          {
-            "id": "3dc39b6b136d5e31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Geschichte/Auslieferung von Sklaven gegenüber ihren Herren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Auslieferung von Sklaven gegenüber ihren Herren"
-            }
-          },
-          {
-            "id": "b29e84046716fbc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Geographie/Stadt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stadt"
-            }
-          },
-          {
-            "id": "21ec9eed2df461a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Politik/Grundgesetz.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grundgesetz"
-            }
-          },
-          {
-            "id": "bb495fc4985fd252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GK Biologie/Bergmann'sche Regel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bergmann'sche Regel"
-            }
-          },
-          {
-            "id": "3e2cd6ff7e4d07fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 PK/5 PK Themen-Ideen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 PK Themen-Ideen"
-            }
-          },
-          {
-            "id": "42904726b7e9e137",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LK Englisch/Trumpadministration.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Trumpadministration"
-            }
-          },
-          {
-            "id": "f2556664c804e0fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LK Englisch/Trump adminestration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trump adminestration"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,11 +198,25 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "42904726b7e9e137",
+  "active": "fcbdcb40b1b362a6",
   "lastOpenFiles": [
-    "LK Englisch/Trump adminestration.md",
-    "Untitled.md",
+    "GK Chemie/WhatsApp Image 2025-01-27 at 13.17.39_90502732.jpg",
     "LK Englisch/Trumpadministration.pdf",
+    "LK Englisch/Trump adminestration.md",
+    "LK Englisch/The US - A home to many - Outline.md",
+    "LK Englisch/Greyhound Tragedy - Characterisation.md",
+    "LK Englisch/Greyhound Tragedy - Comment.md",
+    "GK Chemie/Fachbegriffe der Thermodynamik.md",
+    "GK Chemie/PDF/Concept-Map-Anastasia-1.pdf",
+    "GK Politik/FreieDemokraten.pdf",
+    "GK Politik/msoCB7C.tmp",
+    "GK Politik/msoC67A.tmp",
+    "GK Politik/ppt976A.tmp",
+    "GK Politik/~$FreieDemokraten.pptx",
+    "LK Englisch/text_production_sek_II_web.pdf",
+    "GK Chemie/Pasted image 20250127132909.png",
+    "Polykondensation.md",
+    "GK Chemie/Concept Map.md",
     "GK Geschichte/Ludwig XIX..md",
     "GK Geschichte/Machiavelli.md",
     "GK Geschichte/Mittelalterliche Städte.md",
@@ -329,14 +228,7 @@
     "GK Geschichte/Absolutismus.md",
     "5 PK/5 PK Themen-Ideen.md",
     "LK Informatik/BinarySearchTree/Tree.java~",
-    "GK Politik/~$FreieDemokraten.pptx",
     "GK Geographie/6C4B2651.tmp",
-    "GK Geographie/ppt1083.tmp",
-    "LK Englisch/mso4D5B.tmp",
-    "LK Englisch/mso4B95.tmp",
-    "LK Englisch/Trumpadministration.pptx",
-    "LK Englisch/~$Trumpadministration.pptx",
-    "GK Geographie/~$alpen.pptx",
     "GK Biologie/Bergmann'sche Regel.md",
     "GK Biologie/Allen'sche Regel.md",
     "LK Informatik/Datenbanksysteme.md",
@@ -346,15 +238,8 @@
     "GK Geographie/Soziale Verteilung in der Städteentwicklung.md",
     "GK Geographie/Römische Stadtgründung.md",
     "GK Geographie/Raumplanung.md",
-    "GK Geographie/Ländliche Räume.md",
-    "GK Geographie/GK Geographie.md",
     "GK Geographie/BuchSeite11.jpg",
     "GK Geographie/BuchSeite10.jpg",
-    "GK Geographie/Berliner Gebäude.md",
-    "Pasted image 20250127132909.png",
-    "uwehrieuwrh.md",
-    "GK Geschichte/Auslieferung von Sklaven gegenüber ihren Herren.md",
-    "GK Chemie/WhatsApp Image 2025-01-27 at 13.17.39_90502732.jpg",
     "sql mystery/Pasted image 20250124104543.png",
     "Pasted image 20250124102015.png",
     "sql mystery/Pasted image 20250124104609.png",

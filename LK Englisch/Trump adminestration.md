@@ -45,7 +45,7 @@ _February 4th:_
 - Trump calls for permanent removal of Palestinian citizens (ethnic cleansing) from the Gaza Strip in a joint press conference with Netanyahu
 
 
-
+---
 
 February 3rd:
 - Postponing tariffs on Canada (EO)
