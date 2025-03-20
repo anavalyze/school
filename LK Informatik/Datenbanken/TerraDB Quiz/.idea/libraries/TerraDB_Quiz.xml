@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TerraDB Quiz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mariadb-java-client-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/flatlaf-3.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -14,11 +14,135 @@
               "type": "markdown",
               "state": {
                 "file": "GK Chemie/Fachbegriffe der Thermodynamik.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Fachbegriffe der Thermodynamik"
+            }
+          },
+          {
+            "id": "b8f5e63b11812246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Geschichte/Probeklausur Absolutismus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probeklausur Absolutismus"
+            }
+          },
+          {
+            "id": "d43ead90f032953a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Geschichte/Friedrich der II..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friedrich der II."
+            }
+          },
+          {
+            "id": "8180f05b7cd7c4b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Deutsch/1984 als Gegenthese zu Kant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1984 als Gegenthese zu Kant"
+            }
+          },
+          {
+            "id": "f2f0b7a3ed11ac59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL - Tagebuch.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL - Tagebuch"
+            }
+          },
+          {
+            "id": "0bbd1d7bf0475e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LK Englisch/Klausur LK Englisch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Klausur LK Englisch"
+            }
+          },
+          {
+            "id": "5133167ae3067077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Geographie/Die Folgen von Splash-Wirkung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die Folgen von Splash-Wirkung"
+            }
+          },
+          {
+            "id": "fbe9be81605c96d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Chemie/Aufbau eines Chemie Protokolls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aufbau eines Chemie Protokolls"
+            }
+          },
+          {
+            "id": "da9070064720733c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "88d3993cd519106f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Geschichte/Probeklausur Absolutismus.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probeklausur Absolutismus"
             }
           },
           {
@@ -30,8 +154,65 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "745734d11ff507ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing a letter to the editor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing a letter to the editor"
+            }
+          },
+          {
+            "id": "2f4a532662c7faf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LK Informatik/Informatik Textadventure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Informatik Textadventure"
+            }
+          },
+          {
+            "id": "b302fa0889b9e6a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Biologie/Transmembrantransport.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transmembrantransport"
+            }
+          },
+          {
+            "id": "7b7bf771c2357b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GK Biologie/Population.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Population"
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -63,7 +244,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#16-01-2025  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,52 +379,53 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "fcbdcb40b1b362a6",
+  "active": "745734d11ff507ce",
   "lastOpenFiles": [
+    "LK Informatik/F1 Quiz/out/production/F1 Quiz/Main.class",
+    "LK Informatik/F1 Quiz/out/production/F1 Quiz/Main$1.class",
+    "LK Informatik/F1 Quiz/src/Main.java~",
+    "Writing a letter to the editor.md",
+    "GK Biologie/Population.md",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "LK Informatik/Normalisierung.md",
+    "GK Geographie/Wirtschaftssektoren.md",
+    "LK Informatik/Informatik Textadventure.md",
+    "LK Informatik/F1 Quiz/out/production/F1 Quiz/view/PlaySetupPage.class",
+    "LK Informatik/F1 Quiz/out/production/F1 Quiz/view/PageSwitcher.class",
+    "LK Informatik/F1 Quiz/out/production/F1 Quiz/model/Question.class",
+    "LK Informatik/F1 Quiz/out/production/F1 Quiz/controller/Game.class",
+    "LK Informatik/F1 Quiz/src/view/PlaySetupPage.java~",
+    "LK Informatik/F1 Quiz/src/controller/Game.java~",
+    "LK Informatik/F1 Quiz/src/view/PageSwitcher.java~",
+    "LK Informatik/Datenbanksysteme.md",
+    "GK Geschichte/GK Geschichte.md",
+    "GK Geschichte/Probeklausur Absolutismus.md",
+    "GK Chemie/Wichtige Polymerisate.md",
+    "GK Geographie/Die Folgen von Splash-Wirkung.md",
+    "GK Chemie/Aufbau eines Chemie Protokolls.md",
+    "LK Informatik/Pasted image 20250228103150.png",
+    "LK Englisch/Klausur LK Englisch.md",
+    "LK Informatik/SQL - Tagebuch.md",
+    "LK Informatik/Pasted image 20250228105340.png",
+    "GK Deutsch/1984 als Gegenthese zu Kant.md",
+    "GK Geschichte/Friedrich der II..md",
+    "GK Biologie/Transmembrantransport.md",
+    "GK Geographie/WhatsApp Image 2025-02-26 at 13.25.10_ea5b0321.jpg",
+    "GK Geographie/WhatsApp Image 2025-02-26 at 13.25.10_4dd355b5.jpg",
+    "GK Geschichte/Absolutismus.md",
+    "GK Geschichte/Antike Quellen.md",
+    "GK Geschichte/Auslieferung von Sklaven gegenüber ihren Herren.md",
+    "GK Chemie/Fachbegriffe der Thermodynamik.md",
+    "GK Biologie/Stoffbewegung durch Membranen.md",
+    "GK Biologie/Stofftransporte.md",
     "GK Chemie/WhatsApp Image 2025-01-27 at 13.17.39_90502732.jpg",
-    "LK Englisch/Trumpadministration.pdf",
     "LK Englisch/Trump adminestration.md",
     "LK Englisch/The US - A home to many - Outline.md",
-    "LK Englisch/Greyhound Tragedy - Characterisation.md",
-    "LK Englisch/Greyhound Tragedy - Comment.md",
-    "GK Chemie/Fachbegriffe der Thermodynamik.md",
-    "GK Chemie/PDF/Concept-Map-Anastasia-1.pdf",
-    "GK Politik/FreieDemokraten.pdf",
-    "GK Politik/msoCB7C.tmp",
-    "GK Politik/msoC67A.tmp",
-    "GK Politik/ppt976A.tmp",
-    "GK Politik/~$FreieDemokraten.pptx",
-    "LK Englisch/text_production_sek_II_web.pdf",
     "GK Chemie/Pasted image 20250127132909.png",
-    "Polykondensation.md",
-    "GK Chemie/Concept Map.md",
-    "GK Geschichte/Ludwig XIX..md",
-    "GK Geschichte/Machiavelli.md",
-    "GK Geschichte/Mittelalterliche Städte.md",
-    "GK Geschichte/Poleis.md",
-    "GK Geschichte/Quellenanalyse.md",
-    "GK Geschichte/Reformen Solons.md",
-    "GK Geschichte/Struktur eines geschichtlichen Urteils.md",
-    "GK Geschichte/Thomas Hobbes.md",
-    "GK Geschichte/Absolutismus.md",
-    "5 PK/5 PK Themen-Ideen.md",
-    "LK Informatik/BinarySearchTree/Tree.java~",
-    "GK Geographie/6C4B2651.tmp",
-    "GK Biologie/Bergmann'sche Regel.md",
-    "GK Biologie/Allen'sche Regel.md",
-    "LK Informatik/Datenbanksysteme.md",
     "GK Geschichte/WhatsApp Image 2025-01-25 at 19.37.02_c87fb14a.jpg",
-    "GK Geographie/Stadt.md",
-    "GK Politik/Grundgesetz.md",
-    "GK Geographie/Soziale Verteilung in der Städteentwicklung.md",
-    "GK Geographie/Römische Stadtgründung.md",
-    "GK Geographie/Raumplanung.md",
     "GK Geographie/BuchSeite11.jpg",
     "GK Geographie/BuchSeite10.jpg",
-    "sql mystery/Pasted image 20250124104543.png",
-    "Pasted image 20250124102015.png",
-    "sql mystery/Pasted image 20250124104609.png",
-    "Pasted image 20250124104210.png",
-    "Pasted image 20250124104128.png"
+    "sql mystery/Pasted image 20250124104543.png"
   ]
 }
